@@ -473,3 +473,949 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.24-19.35.04:867][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
 [2019.01.24-19.35.04:867][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
 [2019.01.24-19.35.04:867][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.24-19.58.58:583][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.24-19.58.58:618][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.24-19.59.00:177][  0]SourceControl: Source control is disabled
+[2019.01.24-19.59.00:177][  0]SourceControl: Source control is disabled
+[2019.01.24-19.59.00:262][  0]SourceControl: Source control is disabled
+[2019.01.24-19.59.00:279][  0]SourceControl: Source control is disabled
+[2019.01.24-19.59.01:594][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.24-19.59.01:879][  0]LogOcInput: OculusInput pre-init called
+[2019.01.24-19.59.02:579][  0]LogEngine: Initializing Engine...
+[2019.01.24-19.59.02:589][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.24-19.59.02:596][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.24-19.59.02:596][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.24-19.59.02:596][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.24-19.59.02:596][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.24-19.59.03:001][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.24-19.59.03:351][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.24-19.59.03:462][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.24-19.59.03:683][  0]LogInit: FAudioDevice initialized.
+[2019.01.24-19.59.03:683][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.24-19.59.03:888][  0]LogDerivedDataCache: Saved boot cache 0.20s 71MB C:/Users/owner/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.24-19.59.03:902][  0]LogInit: Texture streaming: Enabled
+[2019.01.24-19.59.03:922][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.24-19.59.03:976][  0]LogInit: Transaction tracking system initialized
+[2019.01.24-19.59.04:224][  0]BlueprintLog: New page: Editor Load
+[2019.01.24-19.59.05:365][  0]LocalizationService: Localization service is disabled
+[2019.01.24-19.59.05:627][  0]LogConfig: Warning: Failed to saved backup for config[D:/S II Git/Greybox_tutorial/Intermediate/Config/CoalescedSourceConfigs/Engine.ini]
+[2019.01.24-19.59.07:571][  0]LogFileCache: Scanning file cache for directory 'D:/S II Git/Greybox_tutorial/Content/' took 0.03s
+[2019.01.24-19.59.07:571][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.24-19.59.07:571][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.24-19.59.07:571][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.24-19.59.07:571][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.24-19.59.07:571][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.24-19.59.07:571][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.24-19.59.07:572][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.24-19.59.10:108][  0]SourceControl: Source control is disabled
+[2019.01.24-19.59.10:148][  0]Cmd: MAP LOAD FILE="D:/S II Git/Greybox_tutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.24-19.59.10:148][  0]LightingResults: New page: Lighting Build
+[2019.01.24-19.59.10:268][  0]MapCheck: New page: Map Check
+[2019.01.24-19.59.10:268][  0]LightingResults: New page: Lighting Build
+[2019.01.24-19.59.11:669][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.24-19.59.12:194][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.24-19.59.12:303][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.24-19.59.12:304][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.217ms to complete.
+[2019.01.24-19.59.12:304][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.195
+[2019.01.24-19.59.12:844][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-19.59.12:852][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-19.59.12:860][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-19.59.12:867][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.24-19.59.12:934][  0]LogCollectionManager: Loaded 0 collections in 0.002665 seconds
+[2019.01.24-19.59.12:976][  0]LogFileCache: Scanning file cache for directory 'D:/S II Git/Greybox_tutorial/Saved/Collections/' took 0.01s
+[2019.01.24-19.59.12:976][  0]LogFileCache: Scanning file cache for directory 'D:/S II Git/Greybox_tutorial/Content/Developers/owner/Collections/' took 0.00s
+[2019.01.24-19.59.12:976][  0]LogFileCache: Scanning file cache for directory 'D:/S II Git/Greybox_tutorial/Content/Collections/' took 0.00s
+[2019.01.24-19.59.12:976][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.24-19.59.12:986][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2651 classes and 620 folders.
+[2019.01.24-19.59.13:045][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.24-19.59.13:129][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:145][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:147][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:154][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:157][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:160][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:163][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:166][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:168][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:171][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:173][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:175][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:178][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:181][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:183][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:186][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:188][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:191][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:193][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:201][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:204][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:212][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:215][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:217][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.24-19.59.13:782][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.24-19.59.13:862][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.01.24-19.59.14:158][  0]LogSlate: Took 0.007202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.24-19.59.14:175][  0]LogSlate: Took 0.016742 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.24-19.59.14:213][  0]LogSlate: Took 0.018480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.24-19.59.14:638][  0]LogRenderer: Reallocating scene render targets to support 1112x540 Format 10 NumSamples 1 (Frame:1).
+[2019.01.24-19.59.15:203][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.24-19.59.15:204][  0]LogLoad: (Engine Initialization) Total time: 1857.50 seconds
+[2019.01.24-19.59.15:204][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.24-19.59.15:319][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.24-19.59.15:389][  0]LogSlate: Took 0.033510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.24-19.59.15:538][  2]LogAssetRegistry: Asset discovery search completed in 1466.5426 seconds
+[2019.01.24-19.59.15:542][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.01.24-19.59.15:542][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000088 seconds (updated 0 objects)
+[2019.01.24-19.59.16:870][  6]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.25-18.35.09:872][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.09:975][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.141 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.09:975][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.141 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.09:975][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.142 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.09:999][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.165 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:001][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.167 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:001][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.167 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:001][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.167 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:001][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.167 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:015][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.181 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:015][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.181 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:015][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.181 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:015][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.181 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:015][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.181 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:023][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.189 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:023][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.189 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:023][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.189 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:023][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.189 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:023][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.189 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:023][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.189 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:023][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.189 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:023][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.189 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:023][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.190 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:024][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.190 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:024][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.190 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:024][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.190 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:046][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.213 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:048][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.215 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:048][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.215 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:048][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.215 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:048][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.215 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:048][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.215 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:048][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.215 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:048][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.215 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:048][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.215 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:048][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.215 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:048][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.215 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:048][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.215 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:048][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.215 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:049][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.215 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:049][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.215 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:049][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.215 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:049][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.215 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:049][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.215 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:049][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.215 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:057][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.223 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:057][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.223 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.232 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.232 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.232 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.232 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.232 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.232 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.232 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.232 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.232 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.232 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.232 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.232 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.233 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.233 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.233 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.233 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.233 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.233 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.233 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.233 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.233 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.233 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.233 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.233 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.233 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:066][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.233 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:067][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.233 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:067][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.233 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:071][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.237 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:071][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.237 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:071][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:071][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:071][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:071][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:071][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:071][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.238 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.239 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.239 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.239 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.239 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.239 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.239 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.239 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.239 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.239 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.239 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.239 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.239 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.239 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.239 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:072][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.239 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:073][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.239 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:073][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.239 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:073][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.239 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:073][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.239 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:073][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.239 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:073][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.239 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:080][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.247 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:080][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.247 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:081][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.247 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:081][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.247 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:081][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.247 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:081][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.248 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:081][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.248 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:081][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.248 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:081][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.248 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:081][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.248 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:081][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.248 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:081][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.248 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:081][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.248 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.248 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.248 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.248 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.248 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.248 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.248 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.248 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.248 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.248 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.248 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.248 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.248 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.248 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.248 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.249 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.249 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.249 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.249 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.249 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.249 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.249 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.249 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:082][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.249 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:083][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.249 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:083][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.249 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:083][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.249 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:083][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.249 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:083][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.249 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:083][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.249 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:083][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.249 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:083][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.249 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:083][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.249 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:083][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.250 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:083][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.250 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:083][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.250 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:083][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.250 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:083][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.250 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:083][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.250 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:083][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.250 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:083][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.250 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:083][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.250 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:083][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.250 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:084][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.250 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:084][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.250 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:084][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.250 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:084][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.250 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:084][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.250 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:084][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.250 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:100][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.267 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:101][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:102][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:102][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:102][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:102][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:102][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:102][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:102][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:102][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:102][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:102][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:102][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:102][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:102][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:102][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:102][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:102][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.268 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:102][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:102][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:102][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:102][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:102][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:102][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.269 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:103][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.270 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.271 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.271 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.271 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.271 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.271 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:104][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.271 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:110][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.271 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:110][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.276 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:110][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.276 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:110][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.276 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:110][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.276 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:110][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.277 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:110][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.277 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:110][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.277 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:110][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.277 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:110][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.277 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.277 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.277 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.277 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.277 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.277 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.277 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.277 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.277 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.277 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.277 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.277 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.277 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.277 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.277 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.277 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.277 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:111][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.278 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:112][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.279 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:113][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.280 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:114][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.282 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.282 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.282 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.282 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.282 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.282 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:115][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.282 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:116][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.282 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:116][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.282 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:116][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.282 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:116][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.282 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:116][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.282 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:116][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.282 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:116][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.282 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:116][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.282 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:116][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.282 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:116][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.282 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:116][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.283 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:116][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.283 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:116][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.283 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:116][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.283 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:116][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.283 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:117][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.284 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:117][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.284 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.284 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.284 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.284 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.284 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.284 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.284 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.284 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.284 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.284 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.284 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.284 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.284 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.284 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.284 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.284 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.284 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.284 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.284 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.284 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:118][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.285 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.286 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.286 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.286 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.286 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.286 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.286 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.286 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.286 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.286 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.286 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.286 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:119][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.286 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:120][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.286 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.10:120][827]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (1.286 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.25-18.35.11:879][832]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.045 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.26-05.37.17:907][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-05.37.19:081][514]LogSlate: Window 'Greybox_tutorial - Unreal Editor' being destroyed
+[2019.01.26-05.37.19:087][514]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.26-05.37.20:296][515]Cmd: QUIT_EDITOR
+[2019.01.26-05.37.21:012][515]LogExit: Preparing to exit.
+[2019.01.26-05.37.23:964][515]LogExit: Editor shut down
+[2019.01.26-05.37.23:967][515]LogExit: Transaction tracking system shut down
+[2019.01.26-05.37.26:998][515]LogExit: Object subsystem successfully closed.
+[2019.01.26-05.37.27:273][515]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.01.26-05.37.27:334][515]LogD3D11RHI: Shutdown
+[2019.01.26-05.37.27:334][515]LogD3D11RHI: CleanupD3DDevice
+[2019.01.26-05.37.27:494][515]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.01.26-05.37.29:528][515]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.01.26-05.37.29:529][515]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.01.26-05.37.29:529][515]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.01.26-05.37.29:617][515]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.01.26-05.37.29:618][515]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.01.26-05.37.29:618][515]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.01.26-05.37.29:625][515]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.01.26-05.37.29:635][515]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.01.26-05.37.29:649][515]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.01.26-05.37.29:699][515]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.01.26-05.37.29:706][515]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.01.26-05.37.29:706][515]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.01.26-05.37.29:706][515]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.01.26-05.37.29:706][515]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.01.26-05.37.29:706][515]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.01.26-05.37.29:706][515]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.01.26-05.37.29:737][515]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.01.26-05.37.29:744][515]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.01.26-05.37.29:771][515]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.01.26-05.37.29:771][515]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.01.26-05.37.29:809][515]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.01.26-05.37.29:834][515]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.01.26-05.37.29:835][515]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.01.26-05.37.29:912][515]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.01.26-05.37.29:913][515]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.01.26-05.37.29:913][515]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.01.26-05.37.29:913][515]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.01.26-05.37.29:913][515]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.01.26-05.37.29:923][515]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.01.26-05.37.29:933][515]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.01.26-05.37.29:957][515]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.01.26-05.37.29:958][515]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.01.26-05.37.29:958][515]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.01.26-05.37.29:959][515]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.01.26-05.37.29:959][515]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.01.26-05.37.29:959][515]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.01.26-05.37.29:959][515]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.01.26-05.37.29:959][515]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.01.26-05.37.29:959][515]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.01.26-05.37.29:959][515]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.01.26-05.37.29:969][515]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.01.26-05.37.29:970][515]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.01.26-05.37.29:970][515]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.01.26-05.37.29:970][515]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.01.26-05.37.29:970][515]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.01.26-05.37.29:970][515]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.01.26-05.37.29:977][515]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.01.26-05.37.30:003][515]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.01.26-05.37.30:016][515]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.01.26-05.37.30:043][515]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.01.26-05.37.30:084][515]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.01.26-05.37.30:111][515]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.01.26-05.37.30:111][515]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.01.26-05.37.30:112][515]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.01.26-05.37.30:112][515]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.01.26-05.37.30:113][515]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.01.26-05.37.30:944][515]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.01.26-05.37.30:944][515]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.01.26-05.37.30:944][515]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.01.26-05.37.30:944][515]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.01.26-05.37.30:944][515]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.01.26-05.37.30:944][515]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.01.26-05.37.30:965][515]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.01.26-05.37.30:983][515]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.01.26-05.37.31:001][515]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.01.26-05.37.31:010][515]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.01.26-05.37.31:010][515]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.01.26-05.37.31:016][515]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.01.26-05.37.31:026][515]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.01.26-05.37.31:026][515]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.01.26-05.37.31:037][515]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.01.26-05.37.31:050][515]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.01.26-05.37.31:070][515]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.01.26-05.37.31:070][515]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.01.26-05.37.31:105][515]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.01.26-05.37.31:112][515]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.01.26-05.37.31:120][515]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.01.26-05.37.31:133][515]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.01.26-05.37.31:140][515]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.01.26-05.37.31:196][515]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.01.26-05.37.31:202][515]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.01.26-05.37.31:210][515]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.01.26-05.37.31:218][515]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.01.26-05.37.31:218][515]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.01.26-05.37.31:245][515]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.01.26-05.37.31:251][515]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.01.26-05.37.31:292][515]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.01.26-05.37.31:292][515]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.01.26-05.37.31:305][515]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.01.26-05.37.31:343][515]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.01.26-05.37.31:376][515]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.01.26-05.37.31:376][515]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.01.26-05.37.31:376][515]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.01.26-05.37.31:383][515]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.01.26-05.37.31:383][515]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.01.26-05.37.31:383][515]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.01.26-05.37.31:388][515]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.01.26-05.37.31:388][515]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.01.26-05.37.31:388][515]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.01.26-05.37.31:398][515]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.01.26-05.37.31:398][515]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.01.26-05.37.31:398][515]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.01.26-05.37.31:398][515]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.01.26-05.37.31:398][515]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.01.26-05.37.31:398][515]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.01.26-05.37.31:398][515]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.01.26-05.37.31:415][515]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.01.26-05.37.31:444][515]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.01.26-05.37.31:456][515]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.01.26-05.37.31:456][515]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.01.26-05.37.31:472][515]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.01.26-05.37.31:479][515]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.01.26-05.37.31:601][515]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.01.26-05.37.31:618][515]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.01.26-05.37.31:618][515]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.01.26-05.37.31:618][515]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.01.26-05.37.31:623][515]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.01.26-05.37.31:623][515]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.01.26-05.37.31:623][515]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.01.26-05.37.31:631][515]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.01.26-05.37.31:631][515]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.01.26-05.37.31:638][515]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.01.26-05.37.31:638][515]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.01.26-05.37.31:638][515]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.01.26-05.37.31:638][515]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.01.26-05.37.31:647][515]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.01.26-05.37.31:655][515]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.01.26-05.37.31:655][515]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.01.26-05.37.31:655][515]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.01.26-05.37.31:662][515]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.01.26-05.37.31:662][515]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.01.26-05.37.31:662][515]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.01.26-05.37.31:662][515]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.01.26-05.37.31:668][515]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.01.26-05.37.31:668][515]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.01.26-05.37.31:668][515]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.01.26-05.37.31:668][515]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.01.26-05.37.31:668][515]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.01.26-05.37.31:668][515]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.01.26-05.37.31:668][515]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.01.26-05.37.31:668][515]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.01.26-05.37.31:668][515]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.01.26-05.37.31:672][515]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.01.26-05.37.31:672][515]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.01.26-05.37.31:677][515]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.01.26-05.37.31:687][515]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.01.26-05.37.31:687][515]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.01.26-05.37.31:687][515]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.01.26-05.37.31:693][515]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.01.26-05.37.31:693][515]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.01.26-05.37.31:700][515]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.01.26-05.37.31:700][515]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.01.26-05.37.31:700][515]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.01.26-05.37.31:721][515]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.01.26-05.37.31:745][515]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.01.26-05.37.31:749][515]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.01.26-05.37.31:749][515]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.01.26-05.37.31:749][515]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.01.26-05.37.31:749][515]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.01.26-05.37.31:749][515]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.01.26-05.37.31:749][515]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.01.26-05.37.31:749][515]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.01.26-05.37.31:749][515]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.01.26-05.37.31:759][515]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.01.26-05.37.31:770][515]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.01.26-05.37.31:781][515]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.01.26-05.37.31:788][515]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.01.26-05.37.31:788][515]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.01.26-05.37.31:796][515]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.01.26-05.37.31:796][515]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.01.26-05.37.31:796][515]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.01.26-05.37.31:898][515]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.01.26-05.37.32:015][515]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.01.26-05.37.32:016][515]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.01.26-05.37.32:023][515]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.01.26-05.37.32:024][515]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.01.26-05.37.32:024][515]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.01.26-05.37.32:034][515]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.01.26-05.37.32:044][515]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.01.26-05.37.32:069][515]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.01.26-05.37.32:083][515]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.01.26-05.37.32:085][515]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.01.26-05.37.32:091][515]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.01.26-05.37.32:105][515]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.01.26-05.37.32:109][515]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.01.26-05.37.32:126][515]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.01.26-05.37.32:126][515]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.01.26-05.37.32:126][515]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.01.26-05.37.32:138][515]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.01.26-05.37.32:142][515]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.01.26-05.37.32:142][515]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.01.26-05.37.32:146][515]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.01.26-05.37.32:160][515]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.01.26-05.37.32:160][515]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.01.26-05.37.32:160][515]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.01.26-05.37.32:182][515]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.01.26-05.37.32:182][515]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.01.26-05.37.32:182][515]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.01.26-05.37.32:182][515]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.01.26-05.37.32:198][515]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.01.26-05.37.32:207][515]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.01.26-05.37.32:207][515]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.01.26-05.37.32:226][515]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.01.26-05.37.32:238][515]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.01.26-05.37.32:255][515]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.01.26-05.37.32:255][515]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.01.26-05.37.32:262][515]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.01.26-05.37.32:291][515]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.01.26-05.37.32:336][515]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.01.26-05.37.32:355][515]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.01.26-05.37.32:382][515]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.01.26-05.37.32:382][515]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.01.26-05.37.32:427][515]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.01.26-05.37.32:427][515]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.01.26-05.37.32:427][515]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.01.26-05.37.32:427][515]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.01.26-05.37.32:427][515]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.01.26-05.37.32:427][515]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.01.26-05.37.32:427][515]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.01.26-05.37.32:427][515]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.01.26-05.37.32:427][515]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.01.26-05.37.32:432][515]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.01.26-05.37.32:439][515]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.01.26-05.37.32:439][515]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.01.26-05.37.32:455][515]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.01.26-05.37.32:470][515]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.01.26-05.37.32:470][515]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.01.26-05.37.32:481][515]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.01.26-05.37.32:490][515]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.01.26-05.37.32:499][515]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.01.26-05.37.32:560][515]LogDerivedDataCache: Shutdown
+[2019.01.26-05.37.32:560][515]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.01.26-05.37.32:560][515]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.01.26-05.37.32:562][515]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.01.26-05.37.32:568][515]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.01.26-05.37.32:579][515]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.01.26-05.37.32:597][515]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.01.26-05.37.32:597][515]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.01.26-05.37.32:613][515]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.01.26-05.37.32:613][515]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.01.26-05.37.32:613][515]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.01.26-05.37.32:613][515]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.01.26-05.37.32:639][515]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.01.26-05.37.32:639][515]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.01.26-05.37.32:639][515]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.01.26-05.37.32:649][515]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.01.26-05.37.32:650][515]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.01.26-05.37.32:650][515]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.01.26-05.37.32:650][515]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.01.26-05.37.32:750][515]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.01.26-05.37.32:751][515]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.01.26-05.37.32:751][515]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.01.26-05.37.32:751][515]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.01.26-05.37.32:751][515]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.01.26-05.37.32:794][515]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.01.26-05.37.32:794][515]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.01.26-05.37.32:818][515]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.01.26-05.37.32:818][515]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.01.26-05.37.32:955][515]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.01.26-05.37.32:955][515]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.01.26-05.37.32:955][515]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.01.26-05.37.32:955][515]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.01.26-05.37.32:955][515]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.01.26-05.37.32:956][515]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.01.26-05.37.32:956][515]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.01.26-05.37.32:966][515]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.01.26-05.37.32:977][515]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.01.26-05.37.32:977][515]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.01.26-05.37.32:977][515]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.01.26-05.37.32:979][515]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.01.26-05.37.32:979][515]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.01.26-05.37.32:986][515]LogHMD: Freeing OpenVRDLLHandle.
+[2019.01.26-05.37.32:986][515]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.01.26-05.37.32:997][515]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.01.26-05.37.32:998][515]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.01.26-05.37.32:998][515]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.01.26-05.37.32:998][515]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.01.26-05.37.33:032][515]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.01.26-05.37.33:059][515]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.01.26-05.37.33:087][515]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.01.26-05.37.33:087][515]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.01.26-05.37.33:087][515]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDFB2D94C-48C0-327C-1725-A8A5618940B9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=73c327df48472bdd858f0685fa7cb968%7C5de29e2fec694cb0a80a582e68c671ed%7C81918c1e-52ab-4ed2-a821-b98452018665&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.01.26-05.37.33:131][515]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.01.26-05.37.33:164][515]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.01.26-05.37.33:165][515]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.01.26-05.37.33:165][515]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.01.26-05.37.33:169][515]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.01.26-05.37.33:169][515]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.01.26-05.37.33:186][515]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.01.26-05.37.33:186][515]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.01.26-05.37.33:189][515]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.01.26-05.37.33:190][515]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.01.26-05.37.33:195][515]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.01.26-05.37.33:200][515]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.01.26-05.37.33:214][515]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.01.26-05.37.33:226][515]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.01.26-05.37.33:281][515]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.01.26-05.37.33:293][515]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.01.26-05.37.33:293][515]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.01.26-05.37.33:293][515]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.01.26-05.37.33:298][515]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.01.26-05.37.33:314][515]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.01.26-05.37.33:314][515]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.01.26-05.37.33:325][515]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.01.26-05.37.33:325][515]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.01.26-05.37.33:325][515]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.01.26-05.37.33:325][515]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.01.26-05.37.33:337][515]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.01.26-05.37.33:338][515]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.01.26-05.37.33:345][515]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.01.26-05.37.33:356][515]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.01.26-05.37.33:386][515]LogExit: Exiting.
+[2019.01.26-05.37.33:437][515]Log file closed, 01/26/19 00:37:33
