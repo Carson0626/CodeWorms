@@ -1,0 +1,850 @@
+﻿Log file open, 02/05/19 19:15:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Greybox_tutorial
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 17 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.358637
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.405s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 5 1600X Six-Core Processor           , GPU: Radeon RX 580 Series
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.06-00.15.49:993][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.06-00.15.49:993][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.06-00.15.49:993][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Engine.ini]
+[2019.02.06-00.15.49:993][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.06-00.15.49:993][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.02.06-00.15.49:993][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Engine.ini]
+[2019.02.06-00.15.49:993][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Engine.ini]
+[2019.02.06-00.15.49:993][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.06-00.15.49:993][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.06-00.15.49:993][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.06-00.15.49:993][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.06-00.15.49:993][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.06-00.15.49:993][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.06-00.15.49:994][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.06-00.15.49:994][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.06-00.15.49:994][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.06-00.15.49:994][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.06-00.15.49:994][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.06-00.15.49:994][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.06-00.15.49:994][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.06-00.15.49:994][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Engine.ini]
+[2019.02.06-00.15.49:994][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.06-00.15.49:994][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.06-00.15.49:994][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.06-00.15.49:994][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.06-00.15.49:994][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.06-00.15.49:994][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.06-00.15.49:994][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.06-00.15.49:994][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.06-00.15.49:994][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.06-00.15.49:994][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.06-00.15.49:994][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.06-00.15.49:994][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.06-00.15.49:994][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.06-00.15.49:994][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.06-00.15.49:994][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Engine.ini]
+[2019.02.06-00.15.49:994][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Engine.ini]
+[2019.02.06-00.15.50:006][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-00.15.50:006][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.06-00.15.50:006][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.06-00.15.50:006][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-00.15.50:006][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.06-00.15.50:006][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-00.15.50:006][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.06-00.15.50:006][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.06-00.15.50:006][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.06-00.15.50:006][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.06-00.15.50:006][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.06-00.15.50:006][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.06-00.15.50:006][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.06-00.15.50:006][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.06-00.15.50:006][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.06-00.15.50:006][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.06-00.15.50:006][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.06-00.15.50:007][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.06-00.15.50:007][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.06-00.15.50:007][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.06-00.15.50:451][  0]LogHAL: Display: Platform has ~ 16 GB [17129930752 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.06-00.15.50:451][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.06-00.15.50:451][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.06-00.15.50:452][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.06-00.15.50:452][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.06-00.15.50:453][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.06-00.15.50:459][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.06-00.15.50:459][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Engine.ini]
+[2019.02.06-00.15.50:459][  0]LogInit: Computer: DESKTOP-KE812PP
+[2019.02.06-00.15.50:459][  0]LogInit: User: AlexBerryhill
+[2019.02.06-00.15.50:459][  0]LogInit: CPU Page size=4096, Cores=3
+[2019.02.06-00.15.50:459][  0]LogInit: High frequency timer resolution =3.515626 MHz
+[2019.02.06-00.15.50:459][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.02.06-00.15.50:459][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.06-00.15.50:459][  0]LogMemory: Process Physical Memory: 104.14 MB used, 104.14 MB peak
+[2019.02.06-00.15.50:459][  0]LogMemory: Process Virtual Memory: 100.76 MB used, 100.76 MB peak
+[2019.02.06-00.15.50:459][  0]LogMemory: Physical Memory: 8632.09 MB used,  7704.29 MB free, 16336.38 MB total
+[2019.02.06-00.15.50:459][  0]LogMemory: Virtual Memory: 553.21 MB used,  134217176.00 MB free, 134217728.00 MB total
+[2019.02.06-00.15.51:241][  0]LogInit: Using OS detected language (en-US).
+[2019.02.06-00.15.51:241][  0]LogInit: Using OS detected locale (en-US).
+[2019.02.06-00.15.51:243][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.06-00.15.51:711][  0]LogStreaming: Display: Took  0.470s to InitEngineTextLocalization.
+[2019.02.06-00.15.51:711][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.06-00.15.52:123][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.06-00.15.52:123][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.06-00.15.54:606][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.06-00.15.54:606][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.06-00.15.54:640][  0]LogD3D11RHI:    0. 'Radeon RX 580 Series' (Feature Level 11_0)
+[2019.02.06-00.15.54:640][  0]LogD3D11RHI:       8137/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2019.02.06-00.15.54:641][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.06-00.15.54:641][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.06-00.15.54:641][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.06-00.15.54:651][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.06-00.15.54:651][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2019.02.06-00.15.54:651][  0]LogWindows: EnumDisplayDevices:
+[2019.02.06-00.15.54:651][  0]LogWindows:    0. 'Radeon RX 580 Series' (P:0 D:1)
+[2019.02.06-00.15.54:651][  0]LogWindows:    1. 'Radeon RX 580 Series' (P:1 D:1)
+[2019.02.06-00.15.54:652][  0]LogWindows:    2. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.06-00.15.54:652][  0]LogWindows:    3. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.06-00.15.54:652][  0]LogWindows:    4. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.06-00.15.54:652][  0]LogWindows:    5. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.06-00.15.54:652][  0]LogWindows:    6. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.06-00.15.54:653][  0]LogWindows:    7. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.06-00.15.54:653][  0]LogWindows:    8. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.06-00.15.54:653][  0]LogWindows:    9. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.06-00.15.54:653][  0]LogWindows:    10. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.06-00.15.54:653][  0]LogWindows:    11. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.06-00.15.54:653][  0]LogWindows:    12. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.06-00.15.54:654][  0]LogWindows:    13. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.06-00.15.54:654][  0]LogWindows:    14. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.06-00.15.54:654][  0]LogWindows:    15. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.06-00.15.54:654][  0]LogWindows: DebugString: FoundDriverCount:16 
+[2019.02.06-00.15.54:654][  0]LogD3D11RHI:     Adapter Name: Radeon RX 580 Series
+[2019.02.06-00.15.54:654][  0]LogD3D11RHI:   Driver Version: Adrenalin 18.5.1 (internal:24.20.11016.4, unified:24.20.11016.4)
+[2019.02.06-00.15.54:654][  0]LogD3D11RHI:      Driver Date: 5-16-2018
+[2019.02.06-00.15.54:654][  0]LogRHI: Texture pool is 5695 MB (70% of 8137 MB)
+[2019.02.06-00.15.54:849][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.06-00.15.54:863][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.02.06-00.15.55:364][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.06-00.15.55:422][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.06-00.15.55:462][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.06-00.15.55:499][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.06-00.15.55:545][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.06-00.15.55:597][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.06-00.15.55:644][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.06-00.15.55:764][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.06-00.15.55:797][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.06-00.15.55:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-00.15.55:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-00.15.55:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-00.15.55:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-00.15.55:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-00.15.55:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-00.15.55:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-00.15.55:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-00.15.55:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-00.15.55:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-00.15.55:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-00.15.55:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-00.15.55:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-00.15.55:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-00.15.55:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-00.15.55:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-00.15.55:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-00.15.55:978][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.06-00.15.56:005][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.06-00.15.56:210][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.06-00.15.56:210][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.06-00.15.56:267][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.06-00.15.56:267][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.06-00.15.56:317][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.06-00.15.56:364][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.06-00.15.56:392][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.06-00.15.56:434][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.06-00.15.56:525][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.06-00.15.56:525][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.06-00.15.56:525][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.06-00.15.57:566][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Intermediate/Shaders/WorkingDirectory/28644/).
+[2019.02.06-00.15.57:567][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alex Berryhill/AppData/Local/Temp/UnrealShaderWorkingDir/BD86CF894418D027919D5799D8EFD56A/'.
+[2019.02.06-00.15.57:570][  0]LogXGEController: Cleaning working directory: C:/Users/Alex Berryhill/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.02.06-00.15.57:570][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.06-00.15.57:571][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.06-00.15.57:571][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.06-00.15.59:544][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.06-00.15.59:598][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Alex Berryhill/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.06-00.15.59:598][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alex Berryhill/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.06-00.15.59:598][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.06-00.15.59:598][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.06-00.15.59:598][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.06-00.15.59:598][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.06-00.15.59:629][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.06-00.15.59:629][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.06-00.15.59:629][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.06-00.15.59:642][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alex Berryhill/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.06-00.15.59:642][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.06-00.15.59:642][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.06-00.15.59:666][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.06-00.15.59:667][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.06-00.15.59:683][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.06-00.15.59:937][  0]LogAssetRegistry: FAssetRegistry took 0.0391 seconds to start up
+[2019.02.06-00.16.00:320][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.06-00.16.01:528][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.06-00.16.01:832][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.06-00.16.01:832][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.06-00.16.01:832][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.06-00.16.01:832][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.06-00.16.01:881][  0]LogNetVersion: Greybox_tutorial 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 85443388)
+[2019.02.06-00.16.04:776][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 1.494451 seconds
+[2019.02.06-00.16.04:786][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.06-00.16.04:786][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.02.06-00.16.04:786][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.06-00.16.10:538][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.06-00.16.10:695][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.06-00.16.12:991][  0]SourceControl: Source control is disabled
+[2019.02.06-00.16.12:991][  0]SourceControl: Source control is disabled
+[2019.02.06-00.16.13:295][  0]SourceControl: Source control is disabled
+[2019.02.06-00.16.13:476][  0]SourceControl: Source control is disabled
+[2019.02.06-00.16.18:243][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.06-00.16.18:795][  0]LogOcInput: OculusInput pre-init called
+[2019.02.06-00.16.19:378][  0]LogEngine: Initializing Engine...
+[2019.02.06-00.16.19:379][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.06-00.16.19:381][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.06-00.16.19:381][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.06-00.16.19:381][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.06-00.16.19:381][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.06-00.16.19:603][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.06-00.16.19:971][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.06-00.16.19:997][  0]LogInit: XAudio2 using 'Headphones (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.06-00.16.20:025][  0]LogInit: FAudioDevice initialized.
+[2019.02.06-00.16.20:026][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.06-00.16.20:122][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/Alex Berryhill/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.06-00.16.20:128][  0]LogInit: Texture streaming: Enabled
+[2019.02.06-00.16.20:361][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.06-00.16.20:470][  0]LogInit: Transaction tracking system initialized
+[2019.02.06-00.16.21:159][  0]BlueprintLog: New page: Editor Load
+[2019.02.06-00.16.24:496][  0]LocalizationService: Localization service is disabled
+[2019.02.06-00.16.26:570][  0]LogFileCache: Scanning file cache for directory 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/' took 0.02s
+[2019.02.06-00.16.26:570][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.06-00.16.26:570][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.06-00.16.26:571][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.06-00.16.26:571][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.06-00.16.26:571][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.06-00.16.26:571][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.06-00.16.26:571][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.06-00.16.28:984][  0]SourceControl: Source control is disabled
+[2019.02.06-00.16.28:984][  0]Cmd: MAP LOAD FILE="F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.06-00.16.28:984][  0]LogEditorServer: Warning: Can't find file 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.02.06-00.16.28:984][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.06-00.16.28:985][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.271ms to complete.
+[2019.02.06-00.16.28:985][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.001
+[2019.02.06-00.16.29:139][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-00.16.29:151][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-00.16.29:162][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-00.16.29:172][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-00.16.29:228][  0]LogCollectionManager: Loaded 0 collections in 0.002373 seconds
+[2019.02.06-00.16.29:246][  0]LogFileCache: Scanning file cache for directory 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Collections/' took 0.01s
+[2019.02.06-00.16.29:246][  0]LogFileCache: Scanning file cache for directory 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Developers/AlexBerryhill/Collections/' took 0.00s
+[2019.02.06-00.16.29:246][  0]LogFileCache: Scanning file cache for directory 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Collections/' took 0.00s
+[2019.02.06-00.16.29:246][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.06-00.16.29:261][  0]LogContentBrowser: Native class hierarchy populated in 0.0143 seconds. Added 2651 classes and 620 folders.
+[2019.02.06-00.16.29:269][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.06-00.16.29:275][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:284][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:324][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:330][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:335][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:348][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:353][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:361][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:369][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:375][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:381][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:389][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:395][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:402][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:409][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:458][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:466][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:472][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:479][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:525][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:529][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:534][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:538][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:542][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:547][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.06-00.16.29:657][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.06-00.16.29:732][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.02.06-00.16.29:844][  0]LogSlate: Took 0.006934 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.06-00.16.29:855][  0]LogSlate: Took 0.007515 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.06-00.16.29:877][  0]LogSlate: Took 0.007361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.06-00.16.30:053][  0]LogRenderer: Reallocating scene render targets to support 1204x640 Format 10 NumSamples 1 (Frame:1).
+[2019.02.06-00.16.30:426][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.06-00.16.30:426][  0]LogLoad: (Engine Initialization) Total time: 46.87 seconds
+[2019.02.06-00.16.30:426][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.06-00.16.30:460][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.06-00.16.31:494][ 85]LogSlate: Took 0.004298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.06-00.16.34:505][357]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.06-00.16.38:515][680]LogAssetRegistry: Asset discovery search completed in 38.5996 seconds
+[2019.02.06-00.16.38:517][680]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.06-00.16.38:517][680]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2019.02.06-00.17.00:074][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-00.17.02:539][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-00.17.13:300][926]LogLinker: Warning: Asset 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/SuperGrid/StarterPack/Materials/Functions/Basic/BreakSet.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.06-00.17.13:308][926]LogLinker: Warning: Asset 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/SuperGrid/StarterPack/Materials/Functions/Basic/MakeSet.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.06-00.17.13:317][926]LogLinker: Warning: Asset 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/SuperGrid/StarterPack/Materials/Functions/Basic/Roughness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.06-00.17.13:326][926]LogLinker: Warning: Asset 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/SuperGrid/StarterPack/Materials/Functions/Texture/Dye_SingleColor.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.06-00.17.13:335][926]LogLinker: Warning: Asset 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/SuperGrid/StarterPack/Materials/Functions/Texture/Tex_SimpleGrid.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.06-00.17.13:357][926]LogLinker: Warning: Asset 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/SuperGrid/StarterPack/Source/Textures/T_BasicGrid_M.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.06-00.17.13:376][926]LogLinker: Warning: Asset 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/SuperGrid/StarterPack/Materials/Functions/UV/UV_SetupGrid.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.06-00.17.13:398][926]LogLinker: Warning: Asset 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/SuperGrid/StarterPack/Source/Textures/T_BasicGrid_N.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.06-00.17.16:468][926]LogLinker: Warning: Asset 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Materials/PP_Outliner_M.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.06-00.17.16:477][926]LogLinker: Warning: Asset 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Materials/MF_ConvolveTexture.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.06-00.17.16:485][926]LogLinker: Warning: Asset 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Materials/MF_ExtractDepth.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.06-00.17.16:493][926]LogLinker: Warning: Asset 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Materials/MF_SampleSceneTextureNeighbourUVs.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.06-00.17.16:755][926]LogTexture: Display: Building textures: Dog_Model_Placeholder (BGRA8, 562X435)
+[2019.02.06-00.17.17:445][926]LogStaticMesh: Building static mesh Door_Standard...
+[2019.02.06-00.17.17:458][926]LogStaticMesh: Built static mesh [0.01s] /Game/Models/Environment/Door_Standard.Door_Standard
+[2019.02.06-00.17.17:705][926]LogStaticMesh: Building static mesh SM_Wall_Layout...
+[2019.02.06-00.17.18:179][926]LogStaticMesh: Built static mesh [0.47s] /Game/Models/Environment/SM_Wall_Layout.SM_Wall_Layout
+[2019.02.06-00.17.18:382][926]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animation/NPCAnim/ANIM_NPC_idle_stand_01.ANIM_NPC_idle_stand_01
+[2019.02.06-00.17.18:382][926]LogAnimationCompression: Recompressing (AnimSequence /Game/Animation/NPCAnim/ANIM_NPC_idle_stand_01.ANIM_NPC_idle_stand_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.06-00.17.18:383][926]LogSkeletalMesh: Building Skeletal Mesh SK_NPC_w_01...
+[2019.02.06-00.17.18:385][926]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/NPCs/SK_NPC_w_01.SK_NPC_w_01
+[2019.02.06-00.17.18:536][926]LogAIModule: Creating AISystem for world PlayerZoo
+[2019.02.06-00.17.18:557][926]LogAssetEditorManager: Opening Asset editor for World /Game/Player+AI/Maps/PlayerZoo.PlayerZoo
+[2019.02.06-00.17.18:587][926]Cmd: MAP LOAD FILE="F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Player+AI/Maps/PlayerZoo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.06-00.17.18:587][926]LightingResults: New page: Lighting Build
+[2019.02.06-00.17.18:590][926]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2019.02.06-00.17.18:591][926]LoadErrors: New page: Loading map: PlayerZoo.umap
+[2019.02.06-00.17.18:591][926]MapCheck: New page: Map Check
+[2019.02.06-00.17.18:591][926]LightingResults: New page: Lighting Build
+[2019.02.06-00.17.18:724][926]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.06-00.17.18:820][926]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.06-00.17.18:822][926]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.362ms to complete.
+[2019.02.06-00.17.18:823][926]LogFileHelpers: Loading map 'PlayerZoo' took 0.236
+[2019.02.06-00.17.22:547][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-00.17.48:881][153]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.02.06-00.18.00:812][478]LogMetaData: Removing '/Game/Blueprints/Interactables/UseableDoorBP.UseableDoorBP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Interactables/UseableDorBP.PackageMetaData'
+[2019.02.06-00.18.00:812][478]LogMetaData: Removing '/Game/Blueprints/Interactables/UseableDoorBP.SKEL_UseableDoorBP_C' ref from Metadata '/Game/Blueprints/Interactables/UseableDorBP.PackageMetaData'
+[2019.02.06-00.18.00:812][478]LogMetaData: Removing '/Game/Blueprints/Interactables/UseableDoorBP.UseableDoorBP_C' ref from Metadata '/Game/Blueprints/Interactables/UseableDorBP.PackageMetaData'
+[2019.02.06-00.18.00:812][478]LogMetaData: Removing '/Game/Blueprints/Interactables/UseableDoorBP.UseableDoorBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Interactables/UseableDorBP.PackageMetaData'
+[2019.02.06-00.18.00:812][478]LogMetaData: Removing '/Game/Blueprints/Interactables/UseableDoorBP.UseableDoorBP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Interactables/UseableDorBP.PackageMetaData'
+[2019.02.06-00.18.00:812][478]LogMetaData: Removing '/Game/Blueprints/Interactables/UseableDoorBP.UseableDoorBP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Interactables/UseableDorBP.PackageMetaData'
+[2019.02.06-00.18.00:836][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interactables/UseableDoorBP" FILE="F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Blueprints/Interactables/UseableDoorBP.uasset" SILENT=true
+[2019.02.06-00.18.00:882][478]LogSavePackage: Moving 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/UseableDoorBP06EAE0624666843874D4FE9CDCF77A21.tmp' to 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Blueprints/Interactables/UseableDoorBP.uasset'
+[2019.02.06-00.18.01:640][530]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/UseableDoorBP.UseableDoorBP
+[2019.02.06-00.18.02:185][530]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.02.06-00.18.04:430][621]LogRenderer: Reallocating scene render targets to support 1204x712 Format 10 NumSamples 1 (Frame:86).
+[2019.02.06-00.18.04:431][621]LogSlate: Window 'UseableDoorBP' being destroyed
+[2019.02.06-00.18.10:364][326]LogSlate: Took 0.004026 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.06-00.18.15:960][992]LogSlate: Took 0.004024 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.06-00.18.20:917][585]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.06-00.18.30:224][686]BlueprintLog: New page: Compile UseableDoorBP
+[2019.02.06-00.18.31:114][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interactables/UseableDoorBP" FILE="F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Blueprints/Interactables/UseableDoorBP.uasset" SILENT=true
+[2019.02.06-00.18.31:195][767]LogSavePackage: Moving 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/UseableDoorBP514D6BAA458357323043BAA31A65B986.tmp' to 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Blueprints/Interactables/UseableDoorBP.uasset'
+[2019.02.06-00.18.42:455][ 41]BlueprintLog: New page: Compile UseableDoorBP
+[2019.02.06-00.19.03:132][256]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-00.19.12:893][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-00.19.12:985][185]BlueprintLog: New page: Compile UseableDoorBP
+[2019.02.06-00.19.13:903][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interactables/UseableDoorBP" FILE="F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Blueprints/Interactables/UseableDoorBP.uasset" SILENT=true
+[2019.02.06-00.19.14:049][262]LogSavePackage: Moving 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/UseableDoorBP30D427D24BDB79D08102459A7BC3A4C8.tmp' to 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Blueprints/Interactables/UseableDoorBP.uasset'
+[2019.02.06-00.19.24:316][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-00.19.35:756][798]LogEditorTransaction: Undo Edit Static Mesh
+[2019.02.06-00.19.36:048][830]LogEditorTransaction: Undo Edit Static Mesh
+[2019.02.06-00.19.36:466][878]LogEditorTransaction: Undo Rename Component Variable
+[2019.02.06-00.19.36:835][922]LogEditorTransaction: Undo Make New Scene Root
+[2019.02.06-00.19.41:785][481]BlueprintLog: New page: Compile UseableDoorBP
+[2019.02.06-00.19.48:947][273]LogEditorTransaction: Undo Modify Component(s)
+[2019.02.06-00.19.52:732][710]LogEditorTransaction: Undo Modify Component(s)
+[2019.02.06-00.19.59:103][439]LogEditorTransaction: Undo Modify Component(s)
+[2019.02.06-00.20.37:770][642]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-00.20.41:628][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-00.20.43:132][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_Standard)
+[2019.02.06-00.20.43:573][273]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Door_Standard)
+[2019.02.06-00.20.43:594][273]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-00.20.44:353][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_Standard)
+[2019.02.06-00.20.48:351][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-00.20.54:312][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.02.06-00.20.54:887][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_Standard)
+[2019.02.06-00.21.03:100][330]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Door_Standard)
+[2019.02.06-00.21.03:120][330]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-00.21.08:260][600]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Door_Standard)
+[2019.02.06-00.21.08:281][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-00.21.18:403][652]Cmd: ACTOR BAKEPREPIVOT
+[2019.02.06-00.21.21:634][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-00.21.23:195][120]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/Environment/Door_Standard.Door_Standard
+[2019.02.06-00.21.24:403][121]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2019.02.06-00.21.26:406][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-00.21.47:362][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-00.21.49:673][446]LogActorFactory: Actor Factory created Door_Standard
+[2019.02.06-00.21.49:974][473]LogActorFactory: Actor Factory created Door_Standard
+[2019.02.06-00.21.51:713][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_Standard)
+[2019.02.06-00.21.53:420][868]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Door_Standard)
+[2019.02.06-00.21.53:440][868]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-00.21.56:519][189]Cmd: PIVOT SNAPPED
+[2019.02.06-00.21.59:570][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-00.21.59:715][514]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Models/Environment/Door_Standard.Door_Standard
+[2019.02.06-00.22.01:791][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-00.22.04:193][963]LogActorFactory: Actor Factory created Door_Standard
+[2019.02.06-00.22.05:038][ 51]LogActorFactory: Actor Factory created Door_Standard
+[2019.02.06-00.22.06:757][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_Standard3)
+[2019.02.06-00.22.07:133][289]Cmd: DELETE
+[2019.02.06-00.22.07:133][289]Cmd: ACTOR DELETE
+[2019.02.06-00.22.07:140][289]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-00.22.07:182][289]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.02.06-00.22.07:523][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_Standard2)
+[2019.02.06-00.22.07:944][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_Standard2)
+[2019.02.06-00.22.08:366][415]Cmd: DELETE
+[2019.02.06-00.22.08:366][415]Cmd: ACTOR DELETE
+[2019.02.06-00.22.08:370][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-00.22.08:396][415]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.02.06-00.22.08:902][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_Standard)
+[2019.02.06-00.22.09:561][548]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Door_Standard)
+[2019.02.06-00.22.09:581][548]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-00.22.12:891][884]Cmd: PIVOT CENTERSELECTION
+[2019.02.06-00.22.13:740][974]Cmd: TRANSACTION UNDO
+[2019.02.06-00.22.13:740][974]LogEditorTransaction: Undo Actor Movement
+[2019.02.06-00.22.14:453][ 38]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Door_Standard)
+[2019.02.06-00.22.14:473][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-00.22.21:713][781]Cmd: ACTOR UNBAKEPREPIVOT
+[2019.02.06-00.22.24:162][ 59]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Door_Standard)
+[2019.02.06-00.22.24:182][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-00.22.27:692][403]Cmd: PIVOT SNAPPED
+[2019.02.06-00.23.14:101][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-00.24.06:344][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-00.24.06:418][257]BlueprintLog: New page: Compile UseableDoorBP
+[2019.02.06-00.24.13:874][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-00.24.13:966][ 17]BlueprintLog: New page: Compile UseableDoorBP
+[2019.02.06-00.24.25:679][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-00.24.31:347][974]LogSlate: Took 0.003977 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.02.06-00.24.38:807][864]BlueprintLog: New page: Compile UseableDoorBP
+[2019.02.06-00.24.39:878][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interactables/UseableDoorBP" FILE="F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Blueprints/Interactables/UseableDoorBP.uasset" SILENT=true
+[2019.02.06-00.24.39:965][962]LogSavePackage: Moving 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/UseableDoorBPCA3C78AC4B08E8C19B363E94358EAC74.tmp' to 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Blueprints/Interactables/UseableDoorBP.uasset'
+[2019.02.06-00.24.43:685][406]BlueprintLog: New page: Compile UseableDoorBP
+[2019.02.06-00.24.56:509][912]BlueprintLog: New page: Compile UseableDoorBP
+[2019.02.06-00.25.15:466][111]BlueprintLog: New page: Compile UseableDoorBP
+[2019.02.06-00.25.20:249][657]BlueprintLog: New page: Compile UseableDoorBP
+[2019.02.06-00.25.24:777][123]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player+AI/Blueprints/GuestAI.GuestAI
+[2019.02.06-00.25.37:035][486]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/Player+AI/Blueprints/BT_Guest.BT_Guest
+[2019.02.06-00.25.39:471][760]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player+AI/Blueprints/LookAtPlayer.LookAtPlayer
+[2019.02.06-00.26.40:518][447]BlueprintLog: New page: Compile UseableDoorBP
+[2019.02.06-00.26.44:379][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door_Standard)
+[2019.02.06-00.26.45:041][927]Cmd: DELETE
+[2019.02.06-00.26.45:042][927]Cmd: ACTOR DELETE
+[2019.02.06-00.26.45:046][927]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.06-00.26.45:075][927]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.02.06-00.26.46:896][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-00.26.52:313][767]LogRenderer: Reallocating scene render targets to support 1432x1024 Format 10 NumSamples 1 (Frame:1).
+[2019.02.06-00.27.13:582][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-00.27.13:674][ 67]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.02.06-00.27.13:715][ 67]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel' has LevelScriptBlueprint '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo' with GeneratedClass '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo_C' with ClassGeneratedBy '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo'
+[2019.02.06-00.27.13:717][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.06-00.27.13:718][ 67]PIE: New page: PIE session: PlayerZoo (Feb 5, 2019, 2:27:13 PM)
+[2019.02.06-00.27.13:729][ 67]LogPlayLevel: Creating play world package: /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo
+[2019.02.06-00.27.13:744][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013733s)
+[2019.02.06-00.27.13:744][ 67]LogAIModule: Creating AISystem for world PlayerZoo
+[2019.02.06-00.27.13:745][ 67]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2019.02.06-00.27.13:745][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Player+AI/Maps/PlayerZoo.PlayerZoo to /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo.PlayerZoo (0.014991s)
+[2019.02.06-00.27.13:809][ 67]LogInit: XAudio2 using 'Headphones (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.06-00.27.13:817][ 67]LogInit: FAudioDevice initialized.
+[2019.02.06-00.27.13:824][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-00.27.13:978][ 67]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.06-00.27.13:985][ 67]LogWorld: Bringing World /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo.PlayerZoo up for play (max tick rate 0) at 2019.02.05-19.27.13
+[2019.02.06-00.27.13:989][ 67]LogWorld: Bringing up level for play took: 0.009077
+[2019.02.06-00.27.14:016][ 67]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.02.06-00.27.14:025][ 67]PIE: Play in editor start time for /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo -0.631
+[2019.02.06-00.27.14:025][ 67]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel' has LevelScriptBlueprint '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo' with GeneratedClass '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo_C' with ClassGeneratedBy '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo'
+[2019.02.06-00.27.14:026][ 67]LogOutputDevice: Warning: 
+
+Script Stack (2 frames):
+ResumeRotation_C.ExecuteUbergraph_ResumeRotation
+ResumeRotation_C.ReceiveExecuteAI
+
+[2019.02.06-00.27.14:394][ 67]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.367 s
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: 
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: Ensure condition failed: !RotationQuat.ContainsNaN() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Private\Math\UnrealMath.cpp] [Line: 448]
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: Invalid input to FRotator::Quaternion - generated NaN output: X=-nan(ind) Y=-inf Z=-nan(ind) W=inf
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: Stack: 
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8fb17d20c UE4Editor-Core.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f552f37a UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f501a8b5 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f4f7578d UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f9734b14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f993946a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f995dcbc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f9993e67 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f99603ff UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f9939e1d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f99603ff UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f9734b14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f995f998 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8ea15dc7e UE4Editor-AIModule.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8ea079612 UE4Editor-AIModule.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8e9ff6223 UE4Editor-AIModule.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8ea01466f UE4Editor-AIModule.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8ea014417 UE4Editor-AIModule.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8ea02e893 UE4Editor-AIModule.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f5419be4 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f543e614 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f62a35ad UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8faff1798 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8faff19e0 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f62fa2a9 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f630a232 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f59db3e4 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f59e76d9 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8ef481f95 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8efda2216 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff7ec1c6225 UE4Editor.exe!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff7ec1d596c UE4Editor.exe!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff7ec1d59ea UE4Editor.exe!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff7ec1e48da UE4Editor.exe!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff7ec1e659a UE4Editor.exe!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff94ed11fe4 KERNEL32.DLL!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff94ee4ef91 ntdll.dll!UnknownFunction []
+[2019.02.06-00.27.14:394][ 67]LogOutputDevice: Error: 
+[2019.02.06-00.27.14:398][ 67]LogStats:                SubmitErrorReport -  0.000 s
+[2019.02.06-00.27.14:851][ 67]LogStats:                    SendNewReport -  0.453 s
+[2019.02.06-00.27.14:851][ 67]LogStats:             FDebug::EnsureFailed -  0.824 s
+[2019.02.06-00.27.14:851][ 67]LogOutputDevice: Warning: 
+
+Script Stack (2 frames):
+ResumeRotation_C.ExecuteUbergraph_ResumeRotation
+ResumeRotation_C.ReceiveExecuteAI
+
+[2019.02.06-00.27.14:852][ 67]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: 
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: Ensure condition failed: NewTransform.IsValid() [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Components\SceneComponent.cpp] [Line: 614]
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: 
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: Stack: 
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f5551f96 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f552d283 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f54cc49a UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f552f3b7 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f501a8b5 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f4f7578d UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f9734b14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f993946a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f995dcbc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f9993e67 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f99603ff UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f9939e1d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f99603ff UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f9734b14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f995f998 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8ea15dc7e UE4Editor-AIModule.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8ea079612 UE4Editor-AIModule.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8e9ff6223 UE4Editor-AIModule.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8ea01466f UE4Editor-AIModule.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8ea014417 UE4Editor-AIModule.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8ea02e893 UE4Editor-AIModule.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f5419be4 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f543e614 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f62a35ad UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8faff1798 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8faff19e0 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f62fa2a9 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f630a232 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f59db3e4 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8f59e76d9 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8ef481f95 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8efda2216 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff7ec1c6225 UE4Editor.exe!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff7ec1d596c UE4Editor.exe!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff7ec1d59ea UE4Editor.exe!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff7ec1e48da UE4Editor.exe!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff7ec1e659a UE4Editor.exe!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff94ed11fe4 KERNEL32.DLL!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff94ee4ef91 ntdll.dll!UnknownFunction []
+[2019.02.06-00.27.14:852][ 67]LogOutputDevice: Error: 
+[2019.02.06-00.27.14:855][ 67]LogStats:                SubmitErrorReport -  0.000 s
