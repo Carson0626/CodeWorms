@@ -1,0 +1,1688 @@
+﻿Log file open, 02/18/19 21:04:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Greybox_tutorial
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 17 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.347817
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.279s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 5 1600X Six-Core Processor           , GPU: Radeon RX 580 Series
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.19-02.04.19:513][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.19-02.04.19:513][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.19-02.04.19:513][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Engine.ini]
+[2019.02.19-02.04.19:513][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.19-02.04.19:513][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.02.19-02.04.19:513][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2019.02.19-02.04.19:513][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.02.19-02.04.19:513][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.02.19-02.04.19:513][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Engine.ini]
+[2019.02.19-02.04.19:514][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Engine.ini]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Engine.ini]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.19-02.04.19:514][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Engine.ini]
+[2019.02.19-02.04.19:514][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Engine.ini]
+[2019.02.19-02.04.19:529][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.19-02.04.19:529][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.19-02.04.19:530][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.19-02.04.19:530][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.19-02.04.19:530][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.19-02.04.19:609][  0]LogHAL: Display: Platform has ~ 16 GB [17129930752 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.19-02.04.19:609][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.19-02.04.19:609][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.19-02.04.19:609][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-02.04.19:609][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.19-02.04.19:609][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.19-02.04.19:609][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-02.04.19:609][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.19-02.04.19:609][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-02.04.19:609][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.19-02.04.19:609][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.19-02.04.19:609][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.19-02.04.19:609][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.19-02.04.19:609][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.19-02.04.19:610][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.19-02.04.19:616][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.19-02.04.19:616][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Config/Windows/Engine.ini]
+[2019.02.19-02.04.19:616][  0]LogInit: Computer: DESKTOP-KE812PP
+[2019.02.19-02.04.19:616][  0]LogInit: User: AlexBerryhill
+[2019.02.19-02.04.19:616][  0]LogInit: CPU Page size=4096, Cores=3
+[2019.02.19-02.04.19:616][  0]LogInit: High frequency timer resolution =3.515626 MHz
+[2019.02.19-02.04.19:616][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.02.19-02.04.19:616][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.19-02.04.19:616][  0]LogMemory: Process Physical Memory: 105.29 MB used, 105.29 MB peak
+[2019.02.19-02.04.19:616][  0]LogMemory: Process Virtual Memory: 100.32 MB used, 100.32 MB peak
+[2019.02.19-02.04.19:616][  0]LogMemory: Physical Memory: 8105.24 MB used,  8231.14 MB free, 16336.38 MB total
+[2019.02.19-02.04.19:616][  0]LogMemory: Virtual Memory: 552.71 MB used,  134217176.00 MB free, 134217728.00 MB total
+[2019.02.19-02.04.19:906][  0]LogInit: Using OS detected language (en-US).
+[2019.02.19-02.04.19:906][  0]LogInit: Using OS detected locale (en-US).
+[2019.02.19-02.04.19:906][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.19-02.04.20:353][  0]LogStreaming: Display: Took  0.448s to InitEngineTextLocalization.
+[2019.02.19-02.04.20:353][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.19-02.04.20:469][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.19-02.04.20:469][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.19-02.04.22:933][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.19-02.04.22:933][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.19-02.04.22:976][  0]LogD3D11RHI:    0. 'Radeon RX 580 Series' (Feature Level 11_0)
+[2019.02.19-02.04.22:977][  0]LogD3D11RHI:       8137/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2019.02.19-02.04.22:978][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.19-02.04.22:978][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.19-02.04.22:978][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.19-02.04.22:987][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.19-02.04.22:987][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2019.02.19-02.04.22:987][  0]LogWindows: EnumDisplayDevices:
+[2019.02.19-02.04.22:987][  0]LogWindows:    0. 'Radeon RX 580 Series' (P:0 D:1)
+[2019.02.19-02.04.22:988][  0]LogWindows:    1. 'Radeon RX 580 Series' (P:1 D:1)
+[2019.02.19-02.04.22:988][  0]LogWindows:    2. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.19-02.04.22:988][  0]LogWindows:    3. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.19-02.04.22:989][  0]LogWindows:    4. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.19-02.04.22:989][  0]LogWindows:    5. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.19-02.04.22:989][  0]LogWindows:    6. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.19-02.04.22:990][  0]LogWindows:    7. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.19-02.04.22:990][  0]LogWindows:    8. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.19-02.04.22:990][  0]LogWindows:    9. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.19-02.04.22:990][  0]LogWindows:    10. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.19-02.04.22:990][  0]LogWindows:    11. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.19-02.04.22:991][  0]LogWindows:    12. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.19-02.04.22:991][  0]LogWindows:    13. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.19-02.04.22:991][  0]LogWindows:    14. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.19-02.04.22:991][  0]LogWindows:    15. 'Radeon RX 580 Series' (P:0 D:0)
+[2019.02.19-02.04.22:991][  0]LogWindows: DebugString: FoundDriverCount:16 
+[2019.02.19-02.04.22:991][  0]LogD3D11RHI:     Adapter Name: Radeon RX 580 Series
+[2019.02.19-02.04.22:991][  0]LogD3D11RHI:   Driver Version: Adrenalin 18.5.1 (internal:24.20.11016.4, unified:24.20.11016.4)
+[2019.02.19-02.04.22:991][  0]LogD3D11RHI:      Driver Date: 5-16-2018
+[2019.02.19-02.04.22:991][  0]LogRHI: Texture pool is 5695 MB (70% of 8137 MB)
+[2019.02.19-02.04.23:136][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.19-02.04.23:149][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.02.19-02.04.23:675][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.19-02.04.23:729][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.19-02.04.23:766][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.19-02.04.23:807][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.19-02.04.23:870][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.19-02.04.23:938][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.19-02.04.23:996][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.19-02.04.24:033][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.19-02.04.24:062][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.19-02.04.24:223][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-02.04.24:223][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-02.04.24:223][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-02.04.24:223][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-02.04.24:223][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-02.04.24:223][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-02.04.24:223][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-02.04.24:223][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-02.04.24:223][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-02.04.24:223][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-02.04.24:223][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-02.04.24:223][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-02.04.24:223][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-02.04.24:223][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-02.04.24:223][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-02.04.24:223][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-02.04.24:223][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-02.04.24:223][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-02.04.24:250][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.19-02.04.24:395][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.19-02.04.24:395][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.19-02.04.24:443][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.19-02.04.24:443][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.19-02.04.24:479][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.19-02.04.24:519][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.19-02.04.24:546][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.19-02.04.24:583][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.19-02.04.24:668][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.19-02.04.24:668][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.19-02.04.24:668][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.19-02.04.25:674][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Intermediate/Shaders/WorkingDirectory/8620/).
+[2019.02.19-02.04.25:674][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alex Berryhill/AppData/Local/Temp/UnrealShaderWorkingDir/2C562D214DE06F316ED1B08112FDF5F7/'.
+[2019.02.19-02.04.25:677][  0]LogXGEController: Cleaning working directory: C:/Users/Alex Berryhill/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.02.19-02.04.25:677][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.19-02.04.25:677][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.19-02.04.25:677][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.19-02.04.27:760][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.19-02.04.27:813][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Alex Berryhill/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.19-02.04.27:813][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alex Berryhill/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.19-02.04.27:813][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.19-02.04.27:813][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.19-02.04.27:813][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.19-02.04.27:813][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.19-02.04.27:842][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.19-02.04.27:842][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.19-02.04.27:842][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.19-02.04.27:854][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alex Berryhill/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.19-02.04.27:854][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.19-02.04.27:854][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.19-02.04.27:879][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.19-02.04.27:881][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.19-02.04.27:897][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.19-02.04.28:090][  0]LogAssetRegistry: FAssetRegistry took 0.0357 seconds to start up
+[2019.02.19-02.04.28:495][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.19-02.04.29:513][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.19-02.04.29:644][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.19-02.04.29:644][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.19-02.04.29:644][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.19-02.04.29:644][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.19-02.04.29:686][  0]LogNetVersion: Greybox_tutorial 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 85443388)
+[2019.02.19-02.04.32:090][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 1.476711 seconds
+[2019.02.19-02.04.32:102][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.19-02.04.32:102][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.02.19-02.04.32:102][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.19-02.04.36:968][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.19-02.04.37:020][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.19-02.04.38:677][  0]SourceControl: Source control is disabled
+[2019.02.19-02.04.38:677][  0]SourceControl: Source control is disabled
+[2019.02.19-02.04.38:729][  0]SourceControl: Source control is disabled
+[2019.02.19-02.04.38:756][  0]SourceControl: Source control is disabled
+[2019.02.19-02.04.40:399][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.19-02.04.40:778][  0]LogOcInput: OculusInput pre-init called
+[2019.02.19-02.04.41:107][  0]LogEngine: Initializing Engine...
+[2019.02.19-02.04.41:108][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.19-02.04.41:110][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.19-02.04.41:110][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.19-02.04.41:110][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.19-02.04.41:110][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.19-02.04.41:524][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.19-02.04.41:777][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.19-02.04.41:804][  0]LogInit: XAudio2 using 'Headphones (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.19-02.04.41:865][  0]LogInit: FAudioDevice initialized.
+[2019.02.19-02.04.41:865][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.19-02.04.41:960][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/Alex Berryhill/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.19-02.04.41:965][  0]LogInit: Texture streaming: Enabled
+[2019.02.19-02.04.42:100][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.19-02.04.42:160][  0]LogInit: Transaction tracking system initialized
+[2019.02.19-02.04.42:378][  0]BlueprintLog: New page: Editor Load
+[2019.02.19-02.04.43:751][  0]LocalizationService: Localization service is disabled
+[2019.02.19-02.04.45:365][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.19-02.04.45:365][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.19-02.04.45:365][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.19-02.04.45:365][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.19-02.04.45:365][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.19-02.04.45:366][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.19-02.04.45:366][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.19-02.04.45:871][  0]LogFileCache: Scanning file cache for directory 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/' took 0.03s
+[2019.02.19-02.04.46:938][  0]SourceControl: Source control is disabled
+[2019.02.19-02.04.46:938][  0]Cmd: MAP LOAD FILE="F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.19-02.04.46:938][  0]LogEditorServer: Warning: Can't find file 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.02.19-02.04.46:938][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.19-02.04.46:938][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.117ms to complete.
+[2019.02.19-02.04.46:938][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.000
+[2019.02.19-02.05.14:661][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-02.05.14:674][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-02.05.14:686][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-02.05.14:697][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-02.05.14:739][  0]LogCollectionManager: Loaded 0 collections in 0.001909 seconds
+[2019.02.19-02.05.14:766][  0]LogFileCache: Scanning file cache for directory 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Collections/' took 0.01s
+[2019.02.19-02.05.14:766][  0]LogFileCache: Scanning file cache for directory 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Developers/AlexBerryhill/Collections/' took 0.00s
+[2019.02.19-02.05.14:766][  0]LogFileCache: Scanning file cache for directory 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Collections/' took 0.01s
+[2019.02.19-02.05.14:766][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.19-02.05.14:777][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2651 classes and 620 folders.
+[2019.02.19-02.05.14:783][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.19-02.05.14:788][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:795][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:824][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:829][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:833][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:838][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:843][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:847][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:852][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:858][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:863][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:867][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:873][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:878][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:882][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:887][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:927][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:933][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:938][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:984][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:988][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:993][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.14:998][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.15:003][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.15:008][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-02.05.15:122][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.19-02.05.15:185][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.02.19-02.05.15:255][  0]LogSlate: Took 0.004656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.19-02.05.15:261][  0]LogSlate: Took 0.004114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.19-02.05.15:272][  0]LogSlate: Took 0.004722 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.19-02.05.15:400][  0]LogRenderer: Reallocating scene render targets to support 1232x600 Format 10 NumSamples 1 (Frame:1).
+[2019.02.19-02.05.15:608][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.02.19-02.05.15:608][  0]LogLoad: (Engine Initialization) Total time: 84.59 seconds
+[2019.02.19-02.05.15:608][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.19-02.05.15:695][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.19-02.05.15:823][  0]LogRenderer: Reallocating scene render targets to support 1232x620 Format 10 NumSamples 1 (Frame:3).
+[2019.02.19-02.05.15:997][  2]LogAssetRegistry: Asset discovery search completed in 47.9295 seconds
+[2019.02.19-02.05.15:999][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.02.19-02.05.16:000][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000096 seconds (updated 0 objects)
+[2019.02.19-02.05.20:016][ 14]LogSlate: Took 0.005965 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.19-02.06.12:988][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-02.06.15:316][552]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.19-02.06.15:652][552]LogLinker: Warning: Asset 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/SuperGrid/StarterPack/Materials/Functions/Basic/BreakSet.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.19-02.06.15:660][552]LogLinker: Warning: Asset 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/SuperGrid/StarterPack/Materials/Functions/Basic/MakeSet.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.19-02.06.15:667][552]LogLinker: Warning: Asset 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/SuperGrid/StarterPack/Materials/Functions/Basic/Roughness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.19-02.06.15:673][552]LogLinker: Warning: Asset 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/SuperGrid/StarterPack/Materials/Functions/Texture/Dye_SingleColor.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.19-02.06.15:680][552]LogLinker: Warning: Asset 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/SuperGrid/StarterPack/Materials/Functions/Texture/Tex_SimpleGrid.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.19-02.06.15:686][552]LogLinker: Warning: Asset 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/SuperGrid/StarterPack/Source/Textures/T_BasicGrid_M.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.19-02.06.15:701][552]LogLinker: Warning: Asset 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/SuperGrid/StarterPack/Materials/Functions/UV/UV_SetupGrid.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.19-02.06.15:709][552]LogLinker: Warning: Asset 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/SuperGrid/StarterPack/Source/Textures/T_BasicGrid_N.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.19-02.06.18:691][552]LogAIModule: Creating AISystem for world PlayerZoo
+[2019.02.19-02.06.18:738][552]LogAssetEditorManager: Opening Asset editor for World /Game/Player+AI/Maps/PlayerZoo.PlayerZoo
+[2019.02.19-02.06.18:770][552]Cmd: MAP LOAD FILE="F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Player+AI/Maps/PlayerZoo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.19-02.06.18:770][552]LightingResults: New page: Lighting Build
+[2019.02.19-02.06.18:773][552]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2019.02.19-02.06.18:773][552]LoadErrors: New page: Loading map: PlayerZoo.umap
+[2019.02.19-02.06.18:774][552]MapCheck: New page: Map Check
+[2019.02.19-02.06.18:774][552]LightingResults: New page: Lighting Build
+[2019.02.19-02.06.18:934][552]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.19-02.06.19:033][552]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.19-02.06.19:033][552]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.11ms to complete.
+[2019.02.19-02.06.19:033][552]LogFileHelpers: Loading map 'PlayerZoo' took 0.264
+[2019.02.19-02.06.27:292][503]LogEditorViewport: Clicking on Actor (LMB): BathroomDoor_C (BathroomDoor3)
+[2019.02.19-02.06.28:281][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-02.06.30:796][863]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interactables/BathroomDoor.BathroomDoor
+[2019.02.19-02.06.31:386][863]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.02.19-02.06.32:323][863]LogSlate: Took 0.004282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.19-02.06.32:458][864]LogSlate: Took 0.005106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.19-02.06.34:832][ 62]LogSlate: Window 'BathroomDoor' being destroyed
+[2019.02.19-02.06.44:453][816]LogStaticMesh: Building static mesh Door_Standard...
+[2019.02.19-02.06.44:476][816]LogStaticMesh: Built static mesh [0.02s] /Game/Models/Environment/Structural/Walls/Door_Standard.Door_Standard
+[2019.02.19-02.06.46:484][999]BlueprintLog: New page: Compile BathroomDoor
+[2019.02.19-02.06.48:434][152]LogRenderer: Reallocating scene render targets to support 1232x696 Format 10 NumSamples 1 (Frame:1).
+[2019.02.19-02.07.02:303][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-02.07.20:806][911]LogEditorTransaction: Undo Modify Component(s)
+[2019.02.19-02.07.25:051][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-02.07.38:162][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-02.07.50:636][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-02.07.50:736][437]BlueprintLog: New page: Compile BathroomDoor
+[2019.02.19-02.07.50:797][437]LogBlueprint: Error: [Compiler BathroomDoor] This blueprint (self) is not a TextRenderComponent, therefore ' Target ' must have a connection.
+[2019.02.19-02.07.51:282][437]LogBlueprint: Warning: [Compiler BathroomDoor] [0240.27] Compile of BathroomDoor failed. 1 Fatal Issue(s) 0 Warning(s) [in 545 ms] (/Game/Blueprints/Interactables/BathroomDoor.BathroomDoor)
+[2019.02.19-02.08.02:600][778]BlueprintLog: New page: Compile BathroomDoor
+[2019.02.19-02.08.04:424][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Interactables/BathroomDoor" FILE="F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Blueprints/Interactables/BathroomDoor.uasset" SILENT=true
+[2019.02.19-02.08.04:530][958]LogSavePackage: Moving 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/BathroomDoorAB9A406C4E6E77405550FDACF750B68F.tmp' to 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Blueprints/Interactables/BathroomDoor.uasset'
+[2019.02.19-02.08.12:008][682]LogEditorViewport: Clicking on Actor (LMB): BathroomDoor_C (BathroomDoor)
+[2019.02.19-02.08.14:510][943]LogEditorViewport: Clicking on Actor (LMB): BathroomDoor_C (BathroomDoor2)
+[2019.02.19-02.08.15:457][ 50]LogEditorViewport: Clicking on Actor (LMB): BathroomDoor_C (BathroomDoor)
+[2019.02.19-02.08.16:982][215]LogEditorViewport: Clicking on Actor (LMB): BathroomDoor_C (BathroomDoor2)
+[2019.02.19-02.08.19:527][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-02.08.19:836][498]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.19-02.08.19:881][498]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel' has LevelScriptBlueprint '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo' with GeneratedClass '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo_C' with ClassGeneratedBy '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo'
+[2019.02.19-02.08.19:881][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.19-02.08.19:881][498]PIE: New page: PIE session: PlayerZoo (Feb 18, 2019, 4:08:19 PM)
+[2019.02.19-02.08.19:893][498]LogPlayLevel: Creating play world package: /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo
+[2019.02.19-02.08.19:918][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024897s)
+[2019.02.19-02.08.19:919][498]LogAIModule: Creating AISystem for world PlayerZoo
+[2019.02.19-02.08.19:920][498]LogPlayLevel: PIE: World Init took: (0.001130s)
+[2019.02.19-02.08.19:920][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Player+AI/Maps/PlayerZoo.PlayerZoo to /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo.PlayerZoo (0.026488s)
+[2019.02.19-02.08.19:971][498]LogInit: XAudio2 using 'Headphones (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.19-02.08.19:978][498]LogInit: FAudioDevice initialized.
+[2019.02.19-02.08.20:033][498]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.19-02.08.20:040][498]LogWorld: Bringing World /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo.PlayerZoo up for play (max tick rate 0) at 2019.02.18-21.08.20
+[2019.02.19-02.08.20:044][498]LogWorld: Bringing up level for play took: 0.009830
+[2019.02.19-02.08.20:062][498]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.02.19-02.08.20:066][498]PIE: Play in editor start time for /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo -0.096
+[2019.02.19-02.08.20:066][498]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel' has LevelScriptBlueprint '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo' with GeneratedClass '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo_C' with ClassGeneratedBy '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo'
+[2019.02.19-02.08.20:827][582]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.20:843][584]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.20:859][586]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.20:876][588]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.20:893][590]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.20:909][592]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.20:926][594]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.20:943][596]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.20:959][598]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.20:976][600]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.20:993][602]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:009][604]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:026][606]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:043][608]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:060][610]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:076][612]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:093][614]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:110][616]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:126][618]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:143][620]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:159][622]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:176][624]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:194][626]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:211][628]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:228][630]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:244][632]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:261][634]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:277][636]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:294][638]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:311][640]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:328][642]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:344][644]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:361][646]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:377][648]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:394][650]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:411][652]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:427][654]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:444][656]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:461][658]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:477][660]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:494][662]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:513][664]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:532][666]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:548][668]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:565][670]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:583][672]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:600][674]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:616][676]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:633][678]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:649][680]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.21:666][682]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.08.49:041][949]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.02.19-02.08.58:898][125]LogBlueprintUserMessages: [_00_2] bork bork bork
+[2019.02.19-02.09.00:623][331]LogBlueprintUserMessages: [_00_2] bork bork bork
+[2019.02.19-02.09.02:526][558]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'HitActors' of length 0 in '/Game/Player+AI/Blueprints/CheckForBark.CheckForBark_C'!
+[2019.02.19-02.09.03:384][661]LogBlueprintUserMessages: [_00_2] bork bork bork
+[2019.02.19-02.09.03:966][730]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.03:983][732]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:000][734]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:017][736]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:033][738]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:050][740]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:067][742]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:083][744]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:100][746]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:117][748]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:133][750]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:150][752]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:167][754]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:183][756]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:200][758]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:216][760]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:233][762]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:250][764]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:266][766]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:283][768]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:300][770]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:317][772]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:333][774]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:350][776]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:366][778]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:383][780]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:400][782]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:416][784]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:433][786]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:450][788]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:467][790]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:483][792]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:500][794]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:522][796]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:539][798]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:555][800]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:572][802]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:589][804]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:605][806]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:622][808]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:639][810]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:655][812]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:672][814]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:688][816]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:705][818]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:722][820]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:739][822]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:756][824]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:772][826]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:789][828]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:805][830]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:822][832]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:839][834]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:856][836]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:872][838]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:889][840]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:906][842]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:923][844]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:939][846]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:956][848]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:972][850]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.04:989][852]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.05:006][854]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.05:023][856]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.05:039][858]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.05:056][860]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.05:073][862]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.05:089][864]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.05:106][866]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.05:122][868]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.05:139][870]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.05:156][872]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.05:173][874]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.05:189][876]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.05:206][878]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.05:223][880]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.05:239][882]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.05:920][963]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.05:936][965]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.05:953][967]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.05:970][969]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.05:986][971]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.06:003][973]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.06:019][975]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.06:036][977]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.06:053][979]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.06:069][981]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.06:086][983]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.06:103][985]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.06:120][987]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.06:136][989]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.06:153][991]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.06:169][993]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.06:186][995]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.06:203][997]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.08:020][214]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'HitActors' of length 0 in '/Game/Player+AI/Blueprints/CheckForBark.CheckForBark_C'!
+[2019.02.19-02.09.08:888][318]LogBlueprintUserMessages: [_00_2] bork bork bork
+[2019.02.19-02.09.08:889][318]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.08:905][320]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.08:922][322]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.08:938][324]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.08:955][326]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.08:971][328]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.08:988][330]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:005][332]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:021][334]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:038][336]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:055][338]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:072][340]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:088][342]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:105][344]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:121][346]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:138][348]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:155][350]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:171][352]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:188][354]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:205][356]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:222][358]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:238][360]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:255][362]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:271][364]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:288][366]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:305][368]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:321][370]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:338][372]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:355][374]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:371][376]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:388][378]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:405][380]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:421][382]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:438][384]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:455][386]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:472][388]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:488][390]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:506][392]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:525][394]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:542][396]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:559][398]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:575][400]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:592][402]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:608][404]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:626][406]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:642][408]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:659][410]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:675][412]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:692][414]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:709][416]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:725][418]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:742][420]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:759][422]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:775][424]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:792][426]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:809][428]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:825][430]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:842][432]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:859][434]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:876][436]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:892][438]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:910][440]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:926][442]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:943][444]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:959][446]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:976][448]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.09:993][450]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.10:009][452]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.10:026][454]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.10:043][456]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.10:059][458]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.10:076][460]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.10:126][466]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'HitActors' of length 0 in '/Game/Player+AI/Blueprints/CheckForBark.CheckForBark_C'!
+[2019.02.19-02.09.12:514][751]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:534][753]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:550][755]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:567][757]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:584][759]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:601][761]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:617][763]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:634][765]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:650][767]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:667][769]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:684][771]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:700][773]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:717][775]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:734][777]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:751][779]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:767][781]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:784][783]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:800][785]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:817][787]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:834][789]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:851][791]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:867][793]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:884][795]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:901][797]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:918][799]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:934][801]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:951][803]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:968][805]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.12:984][807]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.13:001][809]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.13:018][811]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.13:035][813]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.13:051][815]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.13:068][817]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.13:084][819]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.13:101][821]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.13:118][823]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.13:134][825]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.16:800][262]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.16:817][264]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.16:833][266]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.16:850][268]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.16:867][270]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.16:884][272]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.16:900][274]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.16:917][276]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.16:934][278]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.16:951][280]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.16:967][282]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.16:984][284]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.17:001][286]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.17:019][288]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.17:035][290]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.17:234][314]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.17:251][316]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.17:268][318]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.17:284][320]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.17:301][322]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.17:318][324]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.19:946][627]LogBlueprintUserMessages: [_00_2] bork bork bork
+[2019.02.19-02.09.23:493][ 46]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'HitActors' of length 0 in '/Game/Player+AI/Blueprints/CheckForBark.CheckForBark_C'!
+[2019.02.19-02.09.24:031][110]LogBlueprintUserMessages: [_00_2] bork bork bork
+[2019.02.19-02.09.24:805][202]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'HitActors' of length 0 in '/Game/Player+AI/Blueprints/CheckForBark.CheckForBark_C'!
+[2019.02.19-02.09.25:346][267]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'HitActors' of length 0 in '/Game/Player+AI/Blueprints/CheckForBark.CheckForBark_C'!
+[2019.02.19-02.09.28:714][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel' has LevelScriptBlueprint '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo' with GeneratedClass '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo_C' with ClassGeneratedBy '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo'
+[2019.02.19-02.09.28:715][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-02.09.28:751][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.19-02.09.28:751][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel' has LevelScriptBlueprint '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo' with GeneratedClass '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo_C' with ClassGeneratedBy '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo'
+[2019.02.19-02.09.28:781][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-02.09.28:814][656]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.02.19-02.09.29:839][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-02.09.29:938][788]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.19-02.09.29:978][788]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel' has LevelScriptBlueprint '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo' with GeneratedClass '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo_C' with ClassGeneratedBy '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo'
+[2019.02.19-02.09.29:978][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.19-02.09.29:978][788]PIE: New page: PIE session: PlayerZoo (Feb 18, 2019, 4:09:29 PM)
+[2019.02.19-02.09.29:978][788]LogPlayLevel: Creating play world package: /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo
+[2019.02.19-02.09.29:994][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015968s)
+[2019.02.19-02.09.29:995][788]LogAIModule: Creating AISystem for world PlayerZoo
+[2019.02.19-02.09.29:995][788]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2019.02.19-02.09.29:995][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Player+AI/Maps/PlayerZoo.PlayerZoo to /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo.PlayerZoo (0.016963s)
+[2019.02.19-02.09.30:041][788]LogInit: XAudio2 using 'Headphones (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.19-02.09.30:047][788]LogInit: FAudioDevice initialized.
+[2019.02.19-02.09.30:083][788]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.19-02.09.30:093][788]LogWorld: Bringing World /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo.PlayerZoo up for play (max tick rate 0) at 2019.02.18-21.09.30
+[2019.02.19-02.09.30:097][788]LogWorld: Bringing up level for play took: 0.013296
+[2019.02.19-02.09.30:116][788]PIE: Play in editor start time for /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo -0.046
+[2019.02.19-02.09.30:116][788]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel' has LevelScriptBlueprint '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo' with GeneratedClass '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo_C' with ClassGeneratedBy '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo'
+[2019.02.19-02.09.31:019][888]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.31:035][890]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.31:052][892]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.31:069][894]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.31:086][896]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.31:102][898]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.31:119][900]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.09.31:135][902]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.10.02:626][660]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.10.02:642][662]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.10.02:659][664]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.10.02:676][666]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.10.02:692][668]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.10.02:709][670]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.10.02:725][672]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.10.02:743][674]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.10.12:174][799]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel' has LevelScriptBlueprint '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo' with GeneratedClass '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo_C' with ClassGeneratedBy '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo'
+[2019.02.19-02.10.12:175][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-02.10.12:214][799]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.19-02.10.12:215][799]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel' has LevelScriptBlueprint '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo' with GeneratedClass '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo_C' with ClassGeneratedBy '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo'
+[2019.02.19-02.10.12:245][799]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-02.10.12:308][801]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.02.19-02.10.16:457][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-02.10.18:999][506]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player+AI/Blueprints/_00._00
+[2019.02.19-02.12.34:931][875]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Alex Berryhill\Downloads\ANIM_NPC_winner_01.fbx)
+[2019.02.19-02.12.34:983][875]LogFbx: Loading FBX Scene from C:\Users\Alex Berryhill\Downloads\ANIM_NPC_winner_01.fbx
+[2019.02.19-02.12.35:078][875]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.19-02.13.05:610][875]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.02.19-02.13.05:692][875]LogFbx: =================================================
+[2019.02.19-02.13.05:692][875]LogFbx: Dumping Node START [NPC_W_rig_02_0038:SM_woman] 
+[2019.02.19-02.13.05:692][875]LogFbx: 	Total Deformer Count -1558391072.
+[2019.02.19-02.13.05:692][875]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.19-02.13.05:692][875]LogFbx: =================================================
+[2019.02.19-02.13.05:692][875]LogFbx: 	Attribute () Type (4).
+[2019.02.19-02.13.05:692][875]LogFbx: 		[Node Attribute Child 1] NPC_W_rig_02_0038:SM_woman (Type Mesh).
+[2019.02.19-02.13.05:692][875]LogFbx: Dumping Node END [NPC_W_rig_02_0038:SM_woman]
+[2019.02.19-02.13.05:693][875]LogFbx: =================================================
+[2019.02.19-02.13.05:693][875]LogFbx: Dumping Node START [NPC_W_rig_02_0038:SM_woman] 
+[2019.02.19-02.13.05:693][875]LogFbx: 	Total Deformer Count -1558391072.
+[2019.02.19-02.13.05:693][875]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.19-02.13.05:693][875]LogFbx: =================================================
+[2019.02.19-02.13.05:693][875]LogFbx: 	Attribute () Type (4).
+[2019.02.19-02.13.05:693][875]LogFbx: 		[Node Attribute Child 1] NPC_W_rig_02_0038:SM_woman (Type Mesh).
+[2019.02.19-02.13.05:693][875]LogFbx: Dumping Node END [NPC_W_rig_02_0038:SM_woman]
+[2019.02.19-02.13.05:693][875]LogFbx: =================================================
+[2019.02.19-02.13.05:693][875]LogFbx: Dumping Node START [NPC_W_rig_02_0038:SM_woman] 
+[2019.02.19-02.13.05:693][875]LogFbx: 	Total Deformer Count -1558391072.
+[2019.02.19-02.13.05:693][875]LogFbx: 		[Node 1]  (Type Skin).
+[2019.02.19-02.13.05:693][875]LogFbx: =================================================
+[2019.02.19-02.13.05:693][875]LogFbx: 	Attribute () Type (4).
+[2019.02.19-02.13.05:693][875]LogFbx: 		[Node Attribute Child 1] NPC_W_rig_02_0038:SM_woman (Type Mesh).
+[2019.02.19-02.13.05:693][875]LogFbx: Dumping Node END [NPC_W_rig_02_0038:SM_woman]
+[2019.02.19-02.13.05:694][875]LogFbx: SortedLinks :(0) Skele_GRP
+[2019.02.19-02.13.05:694][875]LogFbx: SortedLinks :(1) root_JNT
+[2019.02.19-02.13.05:694][875]LogFbx: SortedLinks :(2) pelvis_JNT
+[2019.02.19-02.13.05:694][875]LogFbx: SortedLinks :(3) spine_01_JNT
+[2019.02.19-02.13.05:694][875]LogFbx: SortedLinks :(4) spine_02_JNT
+[2019.02.19-02.13.05:694][875]LogFbx: SortedLinks :(5) neck_01_JNT
+[2019.02.19-02.13.05:694][875]LogFbx: SortedLinks :(6) neck_02_JNT
+[2019.02.19-02.13.05:694][875]LogFbx: SortedLinks :(7) head_JNT
+[2019.02.19-02.13.05:694][875]LogFbx: SortedLinks :(8) head_top_JNT
+[2019.02.19-02.13.05:694][875]LogFbx: SortedLinks :(9) jaw_JNT
+[2019.02.19-02.13.05:694][875]LogFbx: SortedLinks :(10) chin_JNT
+[2019.02.19-02.13.05:694][875]LogFbx: SortedLinks :(11) R_clavicle_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(12) R_shoulder_BOND_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(13) R_elbow_BOND_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(14) R_wrist_BOND_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(15) R_pinky_01_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(16) R_pinky_02_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(17) R_pinky_03_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(18) R_index_01_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(19) R_index_02_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(20) R_index_03_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(21) R_thumb_01_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(22) R_thumb_02_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(23) R_thumb_03_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(24) R_arm_IK_GRP
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(25) R_shoulder_IK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(26) R_elbow_IK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(27) R_wrist_IK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(28) R_arm_FK_GRP
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(29) R_shoulder_FK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(30) R_elbow_FK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(31) R_wrist_FK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(32) L_clavicle_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(33) L_shoulder_BOND_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(34) L_elbow_BOND_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(35) L_wrist_BOND_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(36) L_pinky_01_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(37) L_pinky_02_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(38) L_pinky_03_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(39) L_index_01_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(40) L_index_02_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(41) L_index_03_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(42) L_thumb_01_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(43) L_thumb_02_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(44) L_thumb_03_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(45) L_arm_IK_GRP
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(46) L_shoulder_IK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(47) L_elbow_IK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(48) L_wrist_IK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(49) L_arm_FK_GRP
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(50) L_shoulder_FK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(51) L_elbow_FK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(52) L_wrist_FK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(53) R_hip_BOND_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(54) R_knee_BOND_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(55) R_ankle_BOND_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(56) R_football_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(57) R_toe_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(58) L_hip_BOND_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(59) L_knee_BOND_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(60) L_ankle_BOND_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(61) L_football_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(62) L_toe_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(63) L_leg_IK_GRP
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(64) L_hip_IK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(65) L_knee_IK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(66) L_ankle_IK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(67) L_leg_FK_GRP
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(68) L_hip_FK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(69) L_knee_FK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(70) L_ankle_FK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(71) R_leg_IK_GRP
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(72) R_hip_IK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(73) R_knee_IK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(74) R_ankle_IK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(75) R_leg_FK_GRP
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(76) R_hip_FK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(77) R_knee_FK_JNT
+[2019.02.19-02.13.05:695][875]LogFbx: SortedLinks :(78) R_ankle_FK_JNT
+[2019.02.19-02.13.05:696][875]LogFbx: Parsing AnimStack Take 001
+[2019.02.19-02.13.05:699][875]LogLinker: Can't find file '/Game/Animation/NPCAnim/ANIM_NPC_winner_01'
+[2019.02.19-02.13.05:700][875]LogLinker: Can't find file '/Game/Animation/NPCAnim/ANIM_NPC_winner_01'
+[2019.02.19-02.13.05:902][875]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animation/NPCAnim/ANIM_NPC_winner_01.ANIM_NPC_winner_01
+[2019.02.19-02.13.05:902][875]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ANIM_NPC_winner_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.19-02.13.06:222][875]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.02.19-02.13.06:222][875]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.02.19-02.13.06:241][875]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Alex Berryhill\Downloads\ANIM_NPC_loser_01.fbx)
+[2019.02.19-02.13.06:289][875]LogFbx: Loading FBX Scene from C:\Users\Alex Berryhill\Downloads\ANIM_NPC_loser_01.fbx
+[2019.02.19-02.13.06:362][875]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.19-02.13.12:583][875]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(0) Skele_GRP
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(1) root_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(2) pelvis_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(3) spine_01_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(4) spine_02_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(5) neck_01_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(6) neck_02_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(7) head_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(8) head_top_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(9) jaw_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(10) chin_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(11) R_clavicle_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(12) R_shoulder_BOND_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(13) R_elbow_BOND_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(14) R_wrist_BOND_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(15) R_pinky_01_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(16) R_pinky_02_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(17) R_pinky_03_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(18) R_index_01_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(19) R_index_02_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(20) R_index_03_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(21) R_thumb_01_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(22) R_thumb_02_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(23) R_thumb_03_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(24) R_arm_IK_GRP
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(25) R_shoulder_IK_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(26) R_elbow_IK_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(27) R_wrist_IK_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(28) R_arm_FK_GRP
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(29) R_shoulder_FK_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(30) R_elbow_FK_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(31) R_wrist_FK_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(32) L_clavicle_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(33) L_shoulder_BOND_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(34) L_elbow_BOND_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(35) L_wrist_BOND_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(36) L_pinky_01_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(37) L_pinky_02_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(38) L_pinky_03_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(39) L_index_01_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(40) L_index_02_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(41) L_index_03_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(42) L_thumb_01_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(43) L_thumb_02_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(44) L_thumb_03_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(45) L_arm_IK_GRP
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(46) L_shoulder_IK_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(47) L_elbow_IK_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(48) L_wrist_IK_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(49) L_arm_FK_GRP
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(50) L_shoulder_FK_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(51) L_elbow_FK_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(52) L_wrist_FK_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(53) R_hip_BOND_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(54) R_knee_BOND_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(55) R_ankle_BOND_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(56) R_football_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(57) R_toe_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(58) L_hip_BOND_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(59) L_knee_BOND_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(60) L_ankle_BOND_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(61) L_football_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(62) L_toe_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(63) L_leg_IK_GRP
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(64) L_hip_IK_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(65) L_knee_IK_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(66) L_ankle_IK_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(67) L_leg_FK_GRP
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(68) L_hip_FK_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(69) L_knee_FK_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(70) L_ankle_FK_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(71) R_leg_IK_GRP
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(72) R_hip_IK_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(73) R_knee_IK_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(74) R_ankle_IK_JNT
+[2019.02.19-02.13.12:631][875]LogFbx: SortedLinks :(75) R_leg_FK_GRP
+[2019.02.19-02.13.12:632][875]LogFbx: SortedLinks :(76) R_hip_FK_JNT
+[2019.02.19-02.13.12:632][875]LogFbx: SortedLinks :(77) R_knee_FK_JNT
+[2019.02.19-02.13.12:632][875]LogFbx: SortedLinks :(78) R_ankle_FK_JNT
+[2019.02.19-02.13.12:633][875]LogFbx: Parsing AnimStack Take 001
+[2019.02.19-02.13.12:636][875]LogLinker: Can't find file '/Game/Animation/NPCAnim/ANIM_NPC_loser_01'
+[2019.02.19-02.13.12:636][875]LogLinker: Can't find file '/Game/Animation/NPCAnim/ANIM_NPC_loser_01'
+[2019.02.19-02.13.12:889][875]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animation/NPCAnim/ANIM_NPC_loser_01.ANIM_NPC_loser_01
+[2019.02.19-02.13.12:889][875]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ANIM_NPC_loser_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.19-02.13.12:931][875]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.02.19-02.13.12:931][875]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.02.19-02.13.12:936][875]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Alex Berryhill\Downloads\ANIM_NPC_dismissal_01.fbx)
+[2019.02.19-02.13.12:951][875]LogFbx: Loading FBX Scene from C:\Users\Alex Berryhill\Downloads\ANIM_NPC_dismissal_01.fbx
+[2019.02.19-02.13.12:985][875]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(0) Skele_GRP
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(1) root_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(2) pelvis_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(3) spine_01_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(4) spine_02_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(5) neck_01_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(6) neck_02_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(7) head_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(8) head_top_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(9) jaw_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(10) chin_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(11) R_clavicle_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(12) R_shoulder_BOND_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(13) R_elbow_BOND_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(14) R_wrist_BOND_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(15) R_pinky_01_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(16) R_pinky_02_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(17) R_pinky_03_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(18) R_index_01_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(19) R_index_02_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(20) R_index_03_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(21) R_thumb_01_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(22) R_thumb_02_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(23) R_thumb_03_JNT
+[2019.02.19-02.13.12:987][875]LogFbx: SortedLinks :(24) R_arm_IK_GRP
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(25) R_shoulder_IK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(26) R_elbow_IK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(27) R_wrist_IK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(28) R_arm_FK_GRP
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(29) R_shoulder_FK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(30) R_elbow_FK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(31) R_wrist_FK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(32) L_clavicle_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(33) L_shoulder_BOND_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(34) L_elbow_BOND_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(35) L_wrist_BOND_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(36) L_pinky_01_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(37) L_pinky_02_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(38) L_pinky_03_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(39) L_index_01_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(40) L_index_02_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(41) L_index_03_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(42) L_thumb_01_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(43) L_thumb_02_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(44) L_thumb_03_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(45) L_arm_IK_GRP
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(46) L_shoulder_IK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(47) L_elbow_IK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(48) L_wrist_IK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(49) L_arm_FK_GRP
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(50) L_shoulder_FK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(51) L_elbow_FK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(52) L_wrist_FK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(53) R_hip_BOND_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(54) R_knee_BOND_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(55) R_ankle_BOND_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(56) R_football_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(57) R_toe_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(58) L_hip_BOND_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(59) L_knee_BOND_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(60) L_ankle_BOND_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(61) L_football_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(62) L_toe_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(63) L_leg_IK_GRP
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(64) L_hip_IK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(65) L_knee_IK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(66) L_ankle_IK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(67) L_leg_FK_GRP
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(68) L_hip_FK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(69) L_knee_FK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(70) L_ankle_FK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(71) R_leg_IK_GRP
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(72) R_hip_IK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(73) R_knee_IK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(74) R_ankle_IK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(75) R_leg_FK_GRP
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(76) R_hip_FK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(77) R_knee_FK_JNT
+[2019.02.19-02.13.12:988][875]LogFbx: SortedLinks :(78) R_ankle_FK_JNT
+[2019.02.19-02.13.12:990][875]LogFbx: Parsing AnimStack woman_dismiss.0003
+[2019.02.19-02.13.12:993][875]LogLinker: Can't find file '/Game/Animation/NPCAnim/ANIM_NPC_dismissal_01'
+[2019.02.19-02.13.12:993][875]LogLinker: Can't find file '/Game/Animation/NPCAnim/ANIM_NPC_dismissal_01'
+[2019.02.19-02.13.13:182][875]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animation/NPCAnim/ANIM_NPC_dismissal_01.ANIM_NPC_dismissal_01
+[2019.02.19-02.13.13:183][875]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ANIM_NPC_dismissal_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.19-02.13.13:236][875]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.02.19-02.13.13:236][875]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.02.19-02.13.13:240][875]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\Alex Berryhill\Downloads\ANIM_NPC_chastise_01.fbx)
+[2019.02.19-02.13.13:289][875]LogFbx: Loading FBX Scene from C:\Users\Alex Berryhill\Downloads\ANIM_NPC_chastise_01.fbx
+[2019.02.19-02.13.13:357][875]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(0) Skele_GRP
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(1) root_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(2) pelvis_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(3) spine_01_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(4) spine_02_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(5) neck_01_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(6) neck_02_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(7) head_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(8) head_top_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(9) jaw_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(10) chin_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(11) R_clavicle_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(12) R_shoulder_BOND_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(13) R_elbow_BOND_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(14) R_wrist_BOND_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(15) R_pinky_01_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(16) R_pinky_02_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(17) R_pinky_03_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(18) R_index_01_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(19) R_index_02_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(20) R_index_03_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(21) R_thumb_01_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(22) R_thumb_02_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(23) R_thumb_03_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(24) R_arm_IK_GRP
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(25) R_shoulder_IK_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(26) R_elbow_IK_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(27) R_wrist_IK_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(28) R_arm_FK_GRP
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(29) R_shoulder_FK_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(30) R_elbow_FK_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(31) R_wrist_FK_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(32) L_clavicle_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(33) L_shoulder_BOND_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(34) L_elbow_BOND_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(35) L_wrist_BOND_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(36) L_pinky_01_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(37) L_pinky_02_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(38) L_pinky_03_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(39) L_index_01_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(40) L_index_02_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(41) L_index_03_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(42) L_thumb_01_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(43) L_thumb_02_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(44) L_thumb_03_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(45) L_arm_IK_GRP
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(46) L_shoulder_IK_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(47) L_elbow_IK_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(48) L_wrist_IK_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(49) L_arm_FK_GRP
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(50) L_shoulder_FK_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(51) L_elbow_FK_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(52) L_wrist_FK_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(53) R_hip_BOND_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(54) R_knee_BOND_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(55) R_ankle_BOND_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(56) R_football_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(57) R_toe_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(58) L_hip_BOND_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(59) L_knee_BOND_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(60) L_ankle_BOND_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(61) L_football_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(62) L_toe_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(63) L_leg_IK_GRP
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(64) L_hip_IK_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(65) L_knee_IK_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(66) L_ankle_IK_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(67) L_leg_FK_GRP
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(68) L_hip_FK_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(69) L_knee_FK_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(70) L_ankle_FK_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(71) R_leg_IK_GRP
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(72) R_hip_IK_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(73) R_knee_IK_JNT
+[2019.02.19-02.13.13:360][875]LogFbx: SortedLinks :(74) R_ankle_IK_JNT
+[2019.02.19-02.13.13:361][875]LogFbx: SortedLinks :(75) R_leg_FK_GRP
+[2019.02.19-02.13.13:361][875]LogFbx: SortedLinks :(76) R_hip_FK_JNT
+[2019.02.19-02.13.13:361][875]LogFbx: SortedLinks :(77) R_knee_FK_JNT
+[2019.02.19-02.13.13:361][875]LogFbx: SortedLinks :(78) R_ankle_FK_JNT
+[2019.02.19-02.13.13:362][875]LogFbx: Parsing AnimStack Take 001
+[2019.02.19-02.13.13:363][875]LogLinker: Can't find file '/Game/Animation/NPCAnim/ANIM_NPC_chastise_01'
+[2019.02.19-02.13.13:364][875]LogLinker: Can't find file '/Game/Animation/NPCAnim/ANIM_NPC_chastise_01'
+[2019.02.19-02.13.13:489][875]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animation/NPCAnim/ANIM_NPC_chastise_01.ANIM_NPC_chastise_01
+[2019.02.19-02.13.13:489][875]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.ANIM_NPC_chastise_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.19-02.13.13:526][875]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.02.19-02.13.13:526][875]FBXImport: Warning: Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2019.02.19-02.13.14:830][ 22]LogSlate: Window 'Message Log' being destroyed
+[2019.02.19-02.13.14:834][ 22]LogSlate: Window 'Message Log' being destroyed
+[2019.02.19-02.13.17:543][332]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Animation/NPCAnim/ANIM_NPC_winner_01.ANIM_NPC_winner_01
+[2019.02.19-02.13.17:634][332]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.02.19-02.13.17:827][332]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.19-02.13.17:830][332]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.02.19-02.13.17:886][332]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.02.19-02.13.18:381][332]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.02.19-02.13.18:427][332]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.02.19-02.13.26:068][105]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Animation/NPCAnim/ANIM_NPC_chastise_01.ANIM_NPC_chastise_01
+[2019.02.19-02.13.26:076][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.19-02.13.26:127][105]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.02.19-02.13.26:628][105]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.02.19-02.13.33:011][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-02.14.11:213][307]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Player+AI/Blueprints/GuestAI.GuestAI
+[2019.02.19-02.14.55:927][  7]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/SK_dog_01'
+[2019.02.19-02.14.55:927][  7]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/SK_dog_01'
+[2019.02.19-02.14.55:927][  7]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Geometry/Meshes/SK_dog_01.SK_dog_01'
+[2019.02.19-02.15.03:813][722]BlueprintLog: New page: Compile GuestAI
+[2019.02.19-02.15.18:619][332]LogEditorTransaction: Undo Reset Pin To Default Value
+[2019.02.19-02.15.18:710][332]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.19-02.15.23:755][876]LogSlate: Took 0.004620 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.02.19-02.15.47:562][454]BlueprintLog: New page: Compile GuestAI
+[2019.02.19-02.16.42:746][ 59]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Animation/NPCAnim/ANIM_NPC_winner_01.ANIM_NPC_winner_01
+[2019.02.19-02.16.51:476][ 80]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.19-02.18.13:849][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/NPCAnim/ANIM_NPC_winner_01" FILE="F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Animation/NPCAnim/ANIM_NPC_winner_01.uasset" SILENT=true
+[2019.02.19-02.18.14:550][664]LogSavePackage: Moving 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/ANIM_NPC_winner_013310BD80466DF249296DD382D0F05283.tmp' to 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Animation/NPCAnim/ANIM_NPC_winner_01.uasset'
+[2019.02.19-02.18.39:681][737]LogSavePackage: Moving 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/PlayerZoo_Auto14F5CBD804D206632FD5FF1AE3EB15F7E.tmp' to 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Autosaves/Game/Player+AI/Maps/PlayerZoo_Auto1.umap'
+[2019.02.19-02.18.39:689][737]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Player+AI/Maps/PlayerZoo' took 0.818
+[2019.02.19-02.18.39:689][737]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.818
+[2019.02.19-02.18.39:692][737]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player+AI/Blueprints/GuestAI] ([1] browsable assets)...
+[2019.02.19-02.18.39:717][737]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player+AI/Blueprints/GuestAI.GuestAI]
+[2019.02.19-02.18.39:717][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player+AI/Blueprints/GuestAI]
+[2019.02.19-02.18.40:432][737]LogSavePackage: Moving 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/GuestAI_Auto1BBC939DD4C2FF68C7FE1C4936EF1E7C3.tmp' to 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Autosaves/Game/Player+AI/Blueprints/GuestAI_Auto1.uasset'
+[2019.02.19-02.18.40:434][737]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/NPCs/SK_NPC_w_01_Skeleton] ([1] browsable assets)...
+[2019.02.19-02.18.40:434][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/NPCs/SK_NPC_w_01_Skeleton]
+[2019.02.19-02.18.40:506][737]LogSavePackage: Moving 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/SK_NPC_w_01_Skeleton_Auto135EBCC8A4150CC6075833AAEA66CD80A.tmp' to 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Autosaves/Game/Models/NPCs/SK_NPC_w_01_Skeleton_Auto1.uasset'
+[2019.02.19-02.18.40:509][737]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/NPCAnim/ANIM_NPC_loser_01] ([1] browsable assets)...
+[2019.02.19-02.18.40:532][737]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animation/NPCAnim/ANIM_NPC_loser_01.ANIM_NPC_loser_01]
+[2019.02.19-02.18.40:532][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/NPCAnim/ANIM_NPC_loser_01]
+[2019.02.19-02.18.40:593][737]LogSavePackage: Moving 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/ANIM_NPC_loser_01_Auto1F280CA7D46A80450DA893B8AF42E5853.tmp' to 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Autosaves/Game/Animation/NPCAnim/ANIM_NPC_loser_01_Auto1.uasset'
+[2019.02.19-02.18.40:594][737]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/NPCAnim/ANIM_NPC_dismissal_01] ([1] browsable assets)...
+[2019.02.19-02.18.40:612][737]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animation/NPCAnim/ANIM_NPC_dismissal_01.ANIM_NPC_dismissal_01]
+[2019.02.19-02.18.40:612][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/NPCAnim/ANIM_NPC_dismissal_01]
+[2019.02.19-02.18.40:685][737]LogSavePackage: Moving 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/ANIM_NPC_dismissal_01_Auto1589927E34F6E0B7159EB2AA2131B0EC1.tmp' to 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Autosaves/Game/Animation/NPCAnim/ANIM_NPC_dismissal_01_Auto1.uasset'
+[2019.02.19-02.18.40:687][737]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/NPCAnim/ANIM_NPC_chastise_01] ([1] browsable assets)...
+[2019.02.19-02.18.40:710][737]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Animation/NPCAnim/ANIM_NPC_chastise_01.ANIM_NPC_chastise_01]
+[2019.02.19-02.18.40:710][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/NPCAnim/ANIM_NPC_chastise_01]
+[2019.02.19-02.18.40:780][737]LogSavePackage: Moving 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/ANIM_NPC_chastise_01_Auto1B8DD1F93493BD39B3EA7EA83978005E2.tmp' to 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/Autosaves/Game/Animation/NPCAnim/ANIM_NPC_chastise_01_Auto1.uasset'
+[2019.02.19-02.18.40:782][737]LogFileHelpers: Auto-saving content packages took 1.091
+[2019.02.19-02.19.27:493][432]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.19-02.19.33:336][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/NPCAnim/ANIM_NPC_winner_01" FILE="F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Animation/NPCAnim/ANIM_NPC_winner_01.uasset" SILENT=true
+[2019.02.19-02.19.33:477][ 99]LogSavePackage: Moving 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/ANIM_NPC_winner_012117A73847A403BB60AE7383BCE74D85.tmp' to 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Animation/NPCAnim/ANIM_NPC_winner_01.uasset'
+[2019.02.19-02.19.36:602][469]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Blueprints/Animation/NPCAnimBP.NPCAnimBP
+[2019.02.19-02.19.36:664][469]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.19-02.19.37:038][469]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.02.19-02.19.37:468][469]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.02.19-02.19.52:161][ 79]BlueprintLog: New page: Compile NPCAnimBP
+[2019.02.19-02.19.52:860][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Animation/NPCAnimBP" FILE="F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Blueprints/Animation/NPCAnimBP.uasset" SILENT=true
+[2019.02.19-02.19.53:802][122]LogSavePackage: Moving 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/NPCAnimBPD85F0A0247415F312F9D5D9F9E4600A1.tmp' to 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Blueprints/Animation/NPCAnimBP.uasset'
+[2019.02.19-02.20.10:824][988]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Blueprints/Animation/DogAnimBP.DogAnimBP
+[2019.02.19-02.20.10:838][988]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.19-02.20.11:565][988]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.02.19-02.20.16:936][614]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Animation/Dog_Anim/ANIM_bark_01.ANIM_bark_01
+[2019.02.19-02.20.16:944][614]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.02.19-02.20.17:535][614]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.02.19-02.20.28:231][885]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.19-02.20.38:409][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/Dog_Anim/ANIM_bark_01" FILE="F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Animation/Dog_Anim/ANIM_bark_01.uasset" SILENT=true
+[2019.02.19-02.20.38:524][979]LogSavePackage: Moving 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/ANIM_bark_016E1B85144ED4BF2432DE79ADAC51685A.tmp' to 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Animation/Dog_Anim/ANIM_bark_01.uasset'
+[2019.02.19-02.20.56:601][803]BlueprintLog: New page: Compile DogAnimBP
+[2019.02.19-02.21.53:499][561]BlueprintLog: New page: Compile DogAnimBP
+[2019.02.19-02.22.13:505][503]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.19-02.22.13:563][503]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel' has LevelScriptBlueprint '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo' with GeneratedClass '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo_C' with ClassGeneratedBy '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo'
+[2019.02.19-02.22.13:563][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.19-02.22.13:563][503]PIE: New page: PIE session: PlayerZoo (Feb 18, 2019, 4:22:13 PM)
+[2019.02.19-02.22.13:563][503]LogPlayLevel: Creating play world package: /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo
+[2019.02.19-02.22.13:582][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018567s)
+[2019.02.19-02.22.13:583][503]LogAIModule: Creating AISystem for world PlayerZoo
+[2019.02.19-02.22.13:583][503]LogPlayLevel: PIE: World Init took: (0.001097s)
+[2019.02.19-02.22.13:583][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Player+AI/Maps/PlayerZoo.PlayerZoo to /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo.PlayerZoo (0.019891s)
+[2019.02.19-02.22.13:638][503]LogInit: XAudio2 using 'Headphones (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.19-02.22.13:645][503]LogInit: FAudioDevice initialized.
+[2019.02.19-02.22.13:680][503]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.19-02.22.13:688][503]LogWorld: Bringing World /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo.PlayerZoo up for play (max tick rate 0) at 2019.02.18-21.22.13
+[2019.02.19-02.22.13:690][503]LogWorld: Bringing up level for play took: 0.009683
+[2019.02.19-02.22.13:706][503]PIE: Play in editor start time for /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo -0.456
+[2019.02.19-02.22.13:706][503]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel' has LevelScriptBlueprint '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo' with GeneratedClass '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo_C' with ClassGeneratedBy '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo'
+[2019.02.19-02.22.14:476][587]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.14:494][589]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.14:814][625]LogBlueprintUserMessages: [_00_2] bork bork bork
+[2019.02.19-02.22.14:815][625]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.14:831][627]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.14:848][629]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.14:865][631]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.14:882][633]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.14:899][635]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.14:916][637]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.14:933][639]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.14:950][641]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.14:966][643]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.14:983][645]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:000][647]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:018][649]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:034][651]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:052][653]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:070][655]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:087][657]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:104][659]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:121][661]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:137][663]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:155][665]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:173][667]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:191][669]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:209][671]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:226][673]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:244][675]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:261][677]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:278][679]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:294][681]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:311][683]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:329][685]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:346][687]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:363][689]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:380][691]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:397][693]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:414][695]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:431][697]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:449][699]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:465][701]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:483][703]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:500][705]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:523][707]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:543][709]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:561][711]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:579][713]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:596][715]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:613][717]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:630][719]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:647][721]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:665][723]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:682][725]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:699][727]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:715][729]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:732][731]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:749][733]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:766][735]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:783][737]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:800][739]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:817][741]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:833][743]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:850][745]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:867][747]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:885][749]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:897][751]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:919][753]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:936][755]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:953][757]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:970][759]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.15:987][761]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.16:004][763]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.22.18:575][ 65]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'HitActors' of length 0 in '/Game/Player+AI/Blueprints/CheckForBark.CheckForBark_C'!
+[2019.02.19-02.22.19:142][132]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel' has LevelScriptBlueprint '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo' with GeneratedClass '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo_C' with ClassGeneratedBy '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo'
+[2019.02.19-02.22.19:143][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-02.22.19:215][132]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.19-02.22.19:215][132]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel' has LevelScriptBlueprint '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo' with GeneratedClass '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo_C' with ClassGeneratedBy '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo'
+[2019.02.19-02.22.19:251][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-02.22.19:285][133]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.02.19-02.22.23:380][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-02.22.29:120][233]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Animation/Dog_Anim/ANIM_beg_01.ANIM_beg_01
+[2019.02.19-02.22.38:701][339]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.19-02.22.41:905][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/Dog_Anim/ANIM_beg_01" FILE="F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Animation/Dog_Anim/ANIM_beg_01.uasset" SILENT=true
+[2019.02.19-02.22.42:148][675]LogSavePackage: Moving 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/ANIM_beg_01C6F42FBB4341A3491B4B4EB8F102D798.tmp' to 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Animation/Dog_Anim/ANIM_beg_01.uasset'
+[2019.02.19-02.23.07:194][804]BlueprintLog: New page: Compile _00
+[2019.02.19-02.23.16:155][475]BlueprintLog: New page: Compile _00
+[2019.02.19-02.23.54:985][198]BlueprintLog: New page: Compile DogAnimBP
+[2019.02.19-02.23.57:620][436]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.19-02.23.59:236][436]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel' has LevelScriptBlueprint '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo' with GeneratedClass '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo_C' with ClassGeneratedBy '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo'
+[2019.02.19-02.23.59:236][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.19-02.23.59:236][436]PIE: New page: PIE session: PlayerZoo (Feb 18, 2019, 4:23:59 PM)
+[2019.02.19-02.23.59:236][436]LogPlayLevel: Creating play world package: /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo
+[2019.02.19-02.23.59:257][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021181s)
+[2019.02.19-02.23.59:258][436]LogAIModule: Creating AISystem for world PlayerZoo
+[2019.02.19-02.23.59:258][436]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2019.02.19-02.23.59:259][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Player+AI/Maps/PlayerZoo.PlayerZoo to /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo.PlayerZoo (0.022465s)
+[2019.02.19-02.23.59:317][436]LogInit: XAudio2 using 'Headphones (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.19-02.23.59:323][436]LogInit: FAudioDevice initialized.
+[2019.02.19-02.23.59:354][436]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.19-02.23.59:361][436]LogWorld: Bringing World /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo.PlayerZoo up for play (max tick rate 0) at 2019.02.18-21.23.59
+[2019.02.19-02.23.59:364][436]LogWorld: Bringing up level for play took: 0.009019
+[2019.02.19-02.23.59:380][436]PIE: Play in editor start time for /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo -0.782
+[2019.02.19-02.23.59:380][436]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel' has LevelScriptBlueprint '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo' with GeneratedClass '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo_C' with ClassGeneratedBy '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo'
+[2019.02.19-02.24.12:336][960]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.12:353][962]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.12:370][964]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.12:386][966]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.12:403][968]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.12:420][970]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.12:437][972]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.12:454][974]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.12:471][976]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.12:487][978]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.12:504][980]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.12:526][982]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.12:544][984]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.12:561][986]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.12:578][988]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.12:594][990]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.12:611][992]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.12:628][994]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.12:644][996]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.12:661][998]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.18:945][735]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.18:963][737]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.18:980][739]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.19:003][741]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.19:024][743]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.19:044][745]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.19:061][747]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.19:078][749]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.19:096][751]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.19:113][753]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.19:130][755]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.19:148][757]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.19:166][759]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.19:183][761]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.19:201][763]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.19:218][765]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.19:235][767]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.19:252][769]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.19:269][771]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.19:286][773]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.19:303][775]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.19:321][777]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.19:338][779]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.24.21:221][995]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel' has LevelScriptBlueprint '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo' with GeneratedClass '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo_C' with ClassGeneratedBy '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo'
+[2019.02.19-02.24.21:222][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-02.24.21:271][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.19-02.24.21:271][995]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel' has LevelScriptBlueprint '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo' with GeneratedClass '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo_C' with ClassGeneratedBy '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo'
+[2019.02.19-02.24.21:311][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-02.24.21:339][996]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.02.19-02.24.22:361][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-02.24.29:875][903]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Animation/Dog_Anim/ANIM_eat_01.ANIM_eat_01
+[2019.02.19-02.24.39:528][ 30]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.19-02.25.56:018][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/Dog_Anim/ANIM_sit_01" FILE="F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Animation/Dog_Anim/ANIM_sit_01.uasset" SILENT=true
+[2019.02.19-02.25.57:095][714]LogSavePackage: Moving 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Saved/ANIM_sit_0127D650CF4BFE294F023415A83F381E28.tmp' to 'F:/2019 SCAD/Studio II/DogDinner/Greybox_tutorial/Content/Animation/Dog_Anim/ANIM_sit_01.uasset'
+[2019.02.19-02.26.06:438][400]BlueprintLog: New page: Compile _00
+[2019.02.19-02.26.07:778][424]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.19-02.26.07:862][424]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel' has LevelScriptBlueprint '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo' with GeneratedClass '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo_C' with ClassGeneratedBy '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo'
+[2019.02.19-02.26.07:862][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.19-02.26.07:862][424]PIE: New page: PIE session: PlayerZoo (Feb 18, 2019, 4:26:07 PM)
+[2019.02.19-02.26.07:862][424]LogPlayLevel: Creating play world package: /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo
+[2019.02.19-02.26.07:878][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016183s)
+[2019.02.19-02.26.07:879][424]LogAIModule: Creating AISystem for world PlayerZoo
+[2019.02.19-02.26.07:879][424]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2019.02.19-02.26.07:879][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Player+AI/Maps/PlayerZoo.PlayerZoo to /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo.PlayerZoo (0.017231s)
+[2019.02.19-02.26.07:940][424]LogInit: XAudio2 using 'Headphones (HyperX 7.1 Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.19-02.26.07:946][424]LogInit: FAudioDevice initialized.
+[2019.02.19-02.26.07:952][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-02.26.07:985][424]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.02.19-02.26.07:992][424]LogWorld: Bringing World /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo.PlayerZoo up for play (max tick rate 0) at 2019.02.18-21.26.07
+[2019.02.19-02.26.07:995][424]LogWorld: Bringing up level for play took: 0.009587
+[2019.02.19-02.26.08:007][424]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.19-02.26.08:012][424]PIE: Play in editor start time for /Game/Player+AI/Maps/UEDPIE_0_PlayerZoo -0.15
+[2019.02.19-02.26.08:013][424]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel' has LevelScriptBlueprint '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo' with GeneratedClass '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo_C' with ClassGeneratedBy '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo'
+[2019.02.19-02.26.08:201][424]LogRenderer: Reallocating scene render targets to support 1932x1116 Format 10 NumSamples 1 (Frame:1).
+[2019.02.19-02.26.22:609][146]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.26.22:646][148]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.26.22:683][150]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.26.22:720][152]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.26.22:757][154]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.26.22:795][156]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.26.22:832][158]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.26.22:870][160]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.26.22:908][162]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.26.22:946][164]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.26.22:983][166]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.26.23:021][168]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.26.23:060][170]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.26.23:097][172]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.26.23:135][174]LogBlueprintUserMessages: [CatFoundDog_C_0] DOG IS FOUND
+[2019.02.19-02.27.35:381][903]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel' has LevelScriptBlueprint '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo' with GeneratedClass '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo_C' with ClassGeneratedBy '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo'
+[2019.02.19-02.27.35:381][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-02.27.35:426][903]LogSlate: Window 'Greybox_tutorial Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.19-02.27.35:499][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.19-02.27.35:500][903]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel' has LevelScriptBlueprint '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo' with GeneratedClass '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo_C' with ClassGeneratedBy '/Game/Player+AI/Maps/PlayerZoo.PlayerZoo:PersistentLevel.PlayerZoo'
+[2019.02.19-02.27.35:717][904]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.02.19-02.27.37:302][ 14]LogUObjectBase: Warning: Object is not registered
+[2019.02.19-02.27.37:302][ 14]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.02.19-02.27.37:655][ 14]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.353 s
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: 
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: Stack: 
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff8ef9081d4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff8ef91809e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff8f160bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff8edaa769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff8eda60917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff8f3c77c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff8f3ec4393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff8f3cd2d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff8f3ca8a70 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff8f3c9b263 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff921bbdc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff921bb0de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff921bc01eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff921baca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff94c52b85d USER32.dll!UnknownFunction []
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff94c52b1ef USER32.dll!UnknownFunction []
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff921bc1746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.19-02.27.37:655][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff7ec1c5546 UE4Editor.exe!UnknownFunction []
+[2019.02.19-02.27.37:656][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff7ec1d596c UE4Editor.exe!UnknownFunction []
+[2019.02.19-02.27.37:656][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff7ec1d59ea UE4Editor.exe!UnknownFunction []
+[2019.02.19-02.27.37:656][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff7ec1e48da UE4Editor.exe!UnknownFunction []
+[2019.02.19-02.27.37:656][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff7ec1e659a UE4Editor.exe!UnknownFunction []
+[2019.02.19-02.27.37:656][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff94ed11fe4 KERNEL32.DLL!UnknownFunction []
+[2019.02.19-02.27.37:656][ 14]LogOutputDevice: Error: [Callstack] 0x00007ff94ee4ef91 ntdll.dll!UnknownFunction []
+[2019.02.19-02.27.37:656][ 14]LogOutputDevice: Error: 
+[2019.02.19-02.27.37:666][ 14]LogStats:                SubmitErrorReport -  0.000 s
